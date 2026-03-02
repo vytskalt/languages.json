@@ -1,17 +1,17 @@
 #!/usr/bin/env node
-import * as fs from 'fs';
-/** @import { LanguageEntry } from './types.ts' */
+import * as fs from 'fs/promises';
+/** @import { ISO_639_2_LanguageEntry } from './types.ts' */
 
 const resp = await fetch('https://www.loc.gov/standards/iso639-2/ISO-639-2_utf-8.txt');
 const text = await resp.text();
 
 const output = [];
 
-for (const line of text.split('\r\n')) {
+for (const line of text.trim().split('\r\n')) {
     // alpha3-B | alpha3-T | alpha2 | English name | French name
     const parts = line.split('|');
 
-    /** @type {LanguageEntry} */
+    /** @type {ISO_639_2_LanguageEntry} */
     const entry = {
         alpha3_terminology: parts[1].length > 0 ? parts[1] : parts[0],
         alpha3_bibliographic: parts[0].length > 0 ? parts[0] : parts[1],
@@ -22,4 +22,4 @@ for (const line of text.split('\r\n')) {
     output.push(entry);
 }
 
-fs.writeFileSync('iso-639-2.json', JSON.stringify(output, null, 4));
+await fs.writeFile('iso-639-2.json', JSON.stringify(output, null, 4));
