@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "target": "ES2020",
+    "lib": ["ESNext"],
+    "moduleResolution": "nodenext",
+    "types": ["node"],
+    "module": "nodenext",
+    "strict": true,
+    "allowImportingTsExtensions": true
+  },
+  "include": ["**/*"]
+}

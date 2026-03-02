@@ -1,0 +1,3411 @@
+[
+    {
+        "alpha3_terminology": "aar",
+        "alpha3_bibliographic": "aar",
+        "alpha2": "aa",
+        "english_name": "Afar",
+        "french_name": "afar"
+    },
+    {
+        "alpha3_terminology": "abk",
+        "alpha3_bibliographic": "abk",
+        "alpha2": "ab",
+        "english_name": "Abkhazian",
+        "french_name": "abkhaze"
+    },
+    {
+        "alpha3_terminology": "ace",
+        "alpha3_bibliographic": "ace",
+        "alpha2": null,
+        "english_name": "Achinese",
+        "french_name": "aceh"
+    },
+    {
+        "alpha3_terminology": "ach",
+        "alpha3_bibliographic": "ach",
+        "alpha2": null,
+        "english_name": "Acoli",
+        "french_name": "acoli"
+    },
+    {
+        "alpha3_terminology": "ada",
+        "alpha3_bibliographic": "ada",
+        "alpha2": null,
+        "english_name": "Adangme",
+        "french_name": "adangme"
+    },
+    {
+        "alpha3_terminology": "ady",
+        "alpha3_bibliographic": "ady",
+        "alpha2": null,
+        "english_name": "Adyghe; Adygei",
+        "french_name": "adyghé"
+    },
+    {
+        "alpha3_terminology": "afa",
+        "alpha3_bibliographic": "afa",
+        "alpha2": null,
+        "english_name": "Afro-Asiatic languages",
+        "french_name": "afro-asiatiques, langues"
+    },
+    {
+        "alpha3_terminology": "afh",
+        "alpha3_bibliographic": "afh",
+        "alpha2": null,
+        "english_name": "Afrihili",
+        "french_name": "afrihili"
+    },
+    {
+        "alpha3_terminology": "afr",
+        "alpha3_bibliographic": "afr",
+        "alpha2": "af",
+        "english_name": "Afrikaans",
+        "french_name": "afrikaans"
+    },
+    {
+        "alpha3_terminology": "ain",
+        "alpha3_bibliographic": "ain",
+        "alpha2": null,
+        "english_name": "Ainu",
+        "french_name": "aïnou"
+    },
+    {
+        "alpha3_terminology": "aka",
+        "alpha3_bibliographic": "aka",
+        "alpha2": "ak",
+        "english_name": "Akan",
+        "french_name": "akan"
+    },
+    {
+        "alpha3_terminology": "akk",
+        "alpha3_bibliographic": "akk",
+        "alpha2": null,
+        "english_name": "Akkadian",
+        "french_name": "akkadien"
+    },
+    {
+        "alpha3_terminology": "sqi",
+        "alpha3_bibliographic": "alb",
+        "alpha2": "sq",
+        "english_name": "Albanian",
+        "french_name": "albanais"
+    },
+    {
+        "alpha3_terminology": "ale",
+        "alpha3_bibliographic": "ale",
+        "alpha2": null,
+        "english_name": "Aleut",
+        "french_name": "aléoute"
+    },
+    {
+        "alpha3_terminology": "alg",
+        "alpha3_bibliographic": "alg",
+        "alpha2": null,
+        "english_name": "Algonquian languages",
+        "french_name": "algonquines, langues"
+    },
+    {
+        "alpha3_terminology": "alt",
+        "alpha3_bibliographic": "alt",
+        "alpha2": null,
+        "english_name": "Southern Altai",
+        "french_name": "altai du Sud"
+    },
+    {
+        "alpha3_terminology": "amh",
+        "alpha3_bibliographic": "amh",
+        "alpha2": "am",
+        "english_name": "Amharic",
+        "french_name": "amharique"
+    },
+    {
+        "alpha3_terminology": "ang",
+        "alpha3_bibliographic": "ang",
+        "alpha2": null,
+        "english_name": "English, Old (ca.450-1100)",
+        "french_name": "anglo-saxon (ca.450-1100)"
+    },
+    {
+        "alpha3_terminology": "anp",
+        "alpha3_bibliographic": "anp",
+        "alpha2": null,
+        "english_name": "Angika",
+        "french_name": "angika"
+    },
+    {
+        "alpha3_terminology": "apa",
+        "alpha3_bibliographic": "apa",
+        "alpha2": null,
+        "english_name": "Apache languages",
+        "french_name": "apaches, langues"
+    },
+    {
+        "alpha3_terminology": "ara",
+        "alpha3_bibliographic": "ara",
+        "alpha2": "ar",
+        "english_name": "Arabic",
+        "french_name": "arabe"
+    },
+    {
+        "alpha3_terminology": "arc",
+        "alpha3_bibliographic": "arc",
+        "alpha2": null,
+        "english_name": "Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)",
+        "french_name": "araméen d'empire (700-300 BCE)"
+    },
+    {
+        "alpha3_terminology": "arg",
+        "alpha3_bibliographic": "arg",
+        "alpha2": "an",
+        "english_name": "Aragonese",
+        "french_name": "aragonais"
+    },
+    {
+        "alpha3_terminology": "hye",
+        "alpha3_bibliographic": "arm",
+        "alpha2": "hy",
+        "english_name": "Armenian",
+        "french_name": "arménien"
+    },
+    {
+        "alpha3_terminology": "arn",
+        "alpha3_bibliographic": "arn",
+        "alpha2": null,
+        "english_name": "Mapudungun; Mapuche",
+        "french_name": "mapudungun; mapuche; mapuce"
+    },
+    {
+        "alpha3_terminology": "arp",
+        "alpha3_bibliographic": "arp",
+        "alpha2": null,
+        "english_name": "Arapaho",
+        "french_name": "arapaho"
+    },
+    {
+        "alpha3_terminology": "art",
+        "alpha3_bibliographic": "art",
+        "alpha2": null,
+        "english_name": "Artificial languages",
+        "french_name": "artificielles, langues"
+    },
+    {
+        "alpha3_terminology": "arw",
+        "alpha3_bibliographic": "arw",
+        "alpha2": null,
+        "english_name": "Arawak",
+        "french_name": "arawak"
+    },
+    {
+        "alpha3_terminology": "asm",
+        "alpha3_bibliographic": "asm",
+        "alpha2": "as",
+        "english_name": "Assamese",
+        "french_name": "assamais"
+    },
+    {
+        "alpha3_terminology": "ast",
+        "alpha3_bibliographic": "ast",
+        "alpha2": null,
+        "english_name": "Asturian; Bable; Leonese; Asturleonese",
+        "french_name": "asturien; bable; léonais; asturoléonais"
+    },
+    {
+        "alpha3_terminology": "ath",
+        "alpha3_bibliographic": "ath",
+        "alpha2": null,
+        "english_name": "Athapascan languages",
+        "french_name": "athapascanes, langues"
+    },
+    {
+        "alpha3_terminology": "aus",
+        "alpha3_bibliographic": "aus",
+        "alpha2": null,
+        "english_name": "Australian languages",
+        "french_name": "australiennes, langues"
+    },
+    {
+        "alpha3_terminology": "ava",
+        "alpha3_bibliographic": "ava",
+        "alpha2": "av",
+        "english_name": "Avaric",
+        "french_name": "avar"
+    },
+    {
+        "alpha3_terminology": "ave",
+        "alpha3_bibliographic": "ave",
+        "alpha2": "ae",
+        "english_name": "Avestan",
+        "french_name": "avestique"
+    },
+    {
+        "alpha3_terminology": "awa",
+        "alpha3_bibliographic": "awa",
+        "alpha2": null,
+        "english_name": "Awadhi",
+        "french_name": "awadhi"
+    },
+    {
+        "alpha3_terminology": "aym",
+        "alpha3_bibliographic": "aym",
+        "alpha2": "ay",
+        "english_name": "Aymara",
+        "french_name": "aymara"
+    },
+    {
+        "alpha3_terminology": "aze",
+        "alpha3_bibliographic": "aze",
+        "alpha2": "az",
+        "english_name": "Azerbaijani",
+        "french_name": "azéri"
+    },
+    {
+        "alpha3_terminology": "bad",
+        "alpha3_bibliographic": "bad",
+        "alpha2": null,
+        "english_name": "Banda languages",
+        "french_name": "banda, langues"
+    },
+    {
+        "alpha3_terminology": "bai",
+        "alpha3_bibliographic": "bai",
+        "alpha2": null,
+        "english_name": "Bamileke languages",
+        "french_name": "bamiléké, langues"
+    },
+    {
+        "alpha3_terminology": "bak",
+        "alpha3_bibliographic": "bak",
+        "alpha2": "ba",
+        "english_name": "Bashkir",
+        "french_name": "bachkir"
+    },
+    {
+        "alpha3_terminology": "bal",
+        "alpha3_bibliographic": "bal",
+        "alpha2": null,
+        "english_name": "Baluchi",
+        "french_name": "baloutchi"
+    },
+    {
+        "alpha3_terminology": "bam",
+        "alpha3_bibliographic": "bam",
+        "alpha2": "bm",
+        "english_name": "Bambara",
+        "french_name": "bambara"
+    },
+    {
+        "alpha3_terminology": "ban",
+        "alpha3_bibliographic": "ban",
+        "alpha2": null,
+        "english_name": "Balinese",
+        "french_name": "balinais"
+    },
+    {
+        "alpha3_terminology": "eus",
+        "alpha3_bibliographic": "baq",
+        "alpha2": "eu",
+        "english_name": "Basque",
+        "french_name": "basque"
+    },
+    {
+        "alpha3_terminology": "bas",
+        "alpha3_bibliographic": "bas",
+        "alpha2": null,
+        "english_name": "Basa",
+        "french_name": "basa"
+    },
+    {
+        "alpha3_terminology": "bat",
+        "alpha3_bibliographic": "bat",
+        "alpha2": null,
+        "english_name": "Baltic languages",
+        "french_name": "baltes, langues"
+    },
+    {
+        "alpha3_terminology": "bej",
+        "alpha3_bibliographic": "bej",
+        "alpha2": null,
+        "english_name": "Beja; Bedawiyet",
+        "french_name": "bedja"
+    },
+    {
+        "alpha3_terminology": "bel",
+        "alpha3_bibliographic": "bel",
+        "alpha2": "be",
+        "english_name": "Belarusian",
+        "french_name": "biélorusse"
+    },
+    {
+        "alpha3_terminology": "bem",
+        "alpha3_bibliographic": "bem",
+        "alpha2": null,
+        "english_name": "Bemba",
+        "french_name": "bemba"
+    },
+    {
+        "alpha3_terminology": "ben",
+        "alpha3_bibliographic": "ben",
+        "alpha2": "bn",
+        "english_name": "Bengali",
+        "french_name": "bengali"
+    },
+    {
+        "alpha3_terminology": "ber",
+        "alpha3_bibliographic": "ber",
+        "alpha2": null,
+        "english_name": "Berber languages",
+        "french_name": "berbères, langues"
+    },
+    {
+        "alpha3_terminology": "bho",
+        "alpha3_bibliographic": "bho",
+        "alpha2": null,
+        "english_name": "Bhojpuri",
+        "french_name": "bhojpuri"
+    },
+    {
+        "alpha3_terminology": "bih",
+        "alpha3_bibliographic": "bih",
+        "alpha2": null,
+        "english_name": "Bihari languages",
+        "french_name": "langues biharis"
+    },
+    {
+        "alpha3_terminology": "bik",
+        "alpha3_bibliographic": "bik",
+        "alpha2": null,
+        "english_name": "Bikol",
+        "french_name": "bikol"
+    },
+    {
+        "alpha3_terminology": "bin",
+        "alpha3_bibliographic": "bin",
+        "alpha2": null,
+        "english_name": "Bini; Edo",
+        "french_name": "bini; edo"
+    },
+    {
+        "alpha3_terminology": "bis",
+        "alpha3_bibliographic": "bis",
+        "alpha2": "bi",
+        "english_name": "Bislama",
+        "french_name": "bichlamar"
+    },
+    {
+        "alpha3_terminology": "bla",
+        "alpha3_bibliographic": "bla",
+        "alpha2": null,
+        "english_name": "Siksika",
+        "french_name": "blackfoot"
+    },
+    {
+        "alpha3_terminology": "bnt",
+        "alpha3_bibliographic": "bnt",
+        "alpha2": null,
+        "english_name": "Bantu languages",
+        "french_name": "bantou, langues"
+    },
+    {
+        "alpha3_terminology": "bos",
+        "alpha3_bibliographic": "bos",
+        "alpha2": "bs",
+        "english_name": "Bosnian",
+        "french_name": "bosniaque"
+    },
+    {
+        "alpha3_terminology": "bra",
+        "alpha3_bibliographic": "bra",
+        "alpha2": null,
+        "english_name": "Braj",
+        "french_name": "braj"
+    },
+    {
+        "alpha3_terminology": "bre",
+        "alpha3_bibliographic": "bre",
+        "alpha2": "br",
+        "english_name": "Breton",
+        "french_name": "breton"
+    },
+    {
+        "alpha3_terminology": "btk",
+        "alpha3_bibliographic": "btk",
+        "alpha2": null,
+        "english_name": "Batak languages",
+        "french_name": "batak, langues"
+    },
+    {
+        "alpha3_terminology": "bua",
+        "alpha3_bibliographic": "bua",
+        "alpha2": null,
+        "english_name": "Buriat",
+        "french_name": "bouriate"
+    },
+    {
+        "alpha3_terminology": "bug",
+        "alpha3_bibliographic": "bug",
+        "alpha2": null,
+        "english_name": "Buginese",
+        "french_name": "bugi"
+    },
+    {
+        "alpha3_terminology": "bul",
+        "alpha3_bibliographic": "bul",
+        "alpha2": "bg",
+        "english_name": "Bulgarian",
+        "french_name": "bulgare"
+    },
+    {
+        "alpha3_terminology": "mya",
+        "alpha3_bibliographic": "bur",
+        "alpha2": "my",
+        "english_name": "Burmese",
+        "french_name": "birman"
+    },
+    {
+        "alpha3_terminology": "byn",
+        "alpha3_bibliographic": "byn",
+        "alpha2": null,
+        "english_name": "Blin; Bilin",
+        "french_name": "blin; bilen"
+    },
+    {
+        "alpha3_terminology": "cad",
+        "alpha3_bibliographic": "cad",
+        "alpha2": null,
+        "english_name": "Caddo",
+        "french_name": "caddo"
+    },
+    {
+        "alpha3_terminology": "cai",
+        "alpha3_bibliographic": "cai",
+        "alpha2": null,
+        "english_name": "Central American Indian languages",
+        "french_name": "amérindiennes de L'Amérique centrale, langues"
+    },
+    {
+        "alpha3_terminology": "car",
+        "alpha3_bibliographic": "car",
+        "alpha2": null,
+        "english_name": "Galibi Carib",
+        "french_name": "karib; galibi; carib"
+    },
+    {
+        "alpha3_terminology": "cat",
+        "alpha3_bibliographic": "cat",
+        "alpha2": "ca",
+        "english_name": "Catalan; Valencian",
+        "french_name": "catalan; valencien"
+    },
+    {
+        "alpha3_terminology": "cau",
+        "alpha3_bibliographic": "cau",
+        "alpha2": null,
+        "english_name": "Caucasian languages",
+        "french_name": "caucasiennes, langues"
+    },
+    {
+        "alpha3_terminology": "ceb",
+        "alpha3_bibliographic": "ceb",
+        "alpha2": null,
+        "english_name": "Cebuano",
+        "french_name": "cebuano"
+    },
+    {
+        "alpha3_terminology": "cel",
+        "alpha3_bibliographic": "cel",
+        "alpha2": null,
+        "english_name": "Celtic languages",
+        "french_name": "celtiques, langues; celtes, langues"
+    },
+    {
+        "alpha3_terminology": "cha",
+        "alpha3_bibliographic": "cha",
+        "alpha2": "ch",
+        "english_name": "Chamorro",
+        "french_name": "chamorro"
+    },
+    {
+        "alpha3_terminology": "chb",
+        "alpha3_bibliographic": "chb",
+        "alpha2": null,
+        "english_name": "Chibcha",
+        "french_name": "chibcha"
+    },
+    {
+        "alpha3_terminology": "che",
+        "alpha3_bibliographic": "che",
+        "alpha2": "ce",
+        "english_name": "Chechen",
+        "french_name": "tchétchène"
+    },
+    {
+        "alpha3_terminology": "chg",
+        "alpha3_bibliographic": "chg",
+        "alpha2": null,
+        "english_name": "Chagatai",
+        "french_name": "djaghataï"
+    },
+    {
+        "alpha3_terminology": "zho",
+        "alpha3_bibliographic": "chi",
+        "alpha2": "zh",
+        "english_name": "Chinese",
+        "french_name": "chinois"
+    },
+    {
+        "alpha3_terminology": "chk",
+        "alpha3_bibliographic": "chk",
+        "alpha2": null,
+        "english_name": "Chuukese",
+        "french_name": "chuuk"
+    },
+    {
+        "alpha3_terminology": "chm",
+        "alpha3_bibliographic": "chm",
+        "alpha2": null,
+        "english_name": "Mari",
+        "french_name": "mari"
+    },
+    {
+        "alpha3_terminology": "chn",
+        "alpha3_bibliographic": "chn",
+        "alpha2": null,
+        "english_name": "Chinook jargon",
+        "french_name": "chinook, jargon"
+    },
+    {
+        "alpha3_terminology": "cho",
+        "alpha3_bibliographic": "cho",
+        "alpha2": null,
+        "english_name": "Choctaw",
+        "french_name": "choctaw"
+    },
+    {
+        "alpha3_terminology": "chp",
+        "alpha3_bibliographic": "chp",
+        "alpha2": null,
+        "english_name": "Chipewyan; Dene Suline",
+        "french_name": "chipewyan"
+    },
+    {
+        "alpha3_terminology": "chr",
+        "alpha3_bibliographic": "chr",
+        "alpha2": null,
+        "english_name": "Cherokee",
+        "french_name": "cherokee"
+    },
+    {
+        "alpha3_terminology": "chu",
+        "alpha3_bibliographic": "chu",
+        "alpha2": "cu",
+        "english_name": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic",
+        "french_name": "slavon d'église; vieux slave; slavon liturgique; vieux bulgare"
+    },
+    {
+        "alpha3_terminology": "chv",
+        "alpha3_bibliographic": "chv",
+        "alpha2": "cv",
+        "english_name": "Chuvash",
+        "french_name": "tchouvache"
+    },
+    {
+        "alpha3_terminology": "chy",
+        "alpha3_bibliographic": "chy",
+        "alpha2": null,
+        "english_name": "Cheyenne",
+        "french_name": "cheyenne"
+    },
+    {
+        "alpha3_terminology": "cmc",
+        "alpha3_bibliographic": "cmc",
+        "alpha2": null,
+        "english_name": "Chamic languages",
+        "french_name": "chames, langues"
+    },
+    {
+        "alpha3_terminology": "cnr",
+        "alpha3_bibliographic": "cnr",
+        "alpha2": null,
+        "english_name": "Montenegrin",
+        "french_name": "monténégrin"
+    },
+    {
+        "alpha3_terminology": "cop",
+        "alpha3_bibliographic": "cop",
+        "alpha2": null,
+        "english_name": "Coptic",
+        "french_name": "copte"
+    },
+    {
+        "alpha3_terminology": "cor",
+        "alpha3_bibliographic": "cor",
+        "alpha2": "kw",
+        "english_name": "Cornish",
+        "french_name": "cornique"
+    },
+    {
+        "alpha3_terminology": "cos",
+        "alpha3_bibliographic": "cos",
+        "alpha2": "co",
+        "english_name": "Corsican",
+        "french_name": "corse"
+    },
+    {
+        "alpha3_terminology": "cpe",
+        "alpha3_bibliographic": "cpe",
+        "alpha2": null,
+        "english_name": "Creoles and pidgins, English based",
+        "french_name": "créoles et pidgins basés sur l'anglais"
+    },
+    {
+        "alpha3_terminology": "cpf",
+        "alpha3_bibliographic": "cpf",
+        "alpha2": null,
+        "english_name": "Creoles and pidgins, French-based",
+        "french_name": "créoles et pidgins basés sur le français"
+    },
+    {
+        "alpha3_terminology": "cpp",
+        "alpha3_bibliographic": "cpp",
+        "alpha2": null,
+        "english_name": "Creoles and pidgins, Portuguese-based",
+        "french_name": "créoles et pidgins basés sur le portugais"
+    },
+    {
+        "alpha3_terminology": "cre",
+        "alpha3_bibliographic": "cre",
+        "alpha2": "cr",
+        "english_name": "Cree",
+        "french_name": "cree"
+    },
+    {
+        "alpha3_terminology": "crh",
+        "alpha3_bibliographic": "crh",
+        "alpha2": null,
+        "english_name": "Crimean Tatar; Crimean Turkish",
+        "french_name": "tatar de Crimé"
+    },
+    {
+        "alpha3_terminology": "crp",
+        "alpha3_bibliographic": "crp",
+        "alpha2": null,
+        "english_name": "Creoles and pidgins",
+        "french_name": "créoles et pidgins"
+    },
+    {
+        "alpha3_terminology": "csb",
+        "alpha3_bibliographic": "csb",
+        "alpha2": null,
+        "english_name": "Kashubian",
+        "french_name": "kachoube"
+    },
+    {
+        "alpha3_terminology": "cus",
+        "alpha3_bibliographic": "cus",
+        "alpha2": null,
+        "english_name": "Cushitic languages",
+        "french_name": "couchitiques, langues"
+    },
+    {
+        "alpha3_terminology": "ces",
+        "alpha3_bibliographic": "cze",
+        "alpha2": "cs",
+        "english_name": "Czech",
+        "french_name": "tchèque"
+    },
+    {
+        "alpha3_terminology": "dak",
+        "alpha3_bibliographic": "dak",
+        "alpha2": null,
+        "english_name": "Dakota",
+        "french_name": "dakota"
+    },
+    {
+        "alpha3_terminology": "dan",
+        "alpha3_bibliographic": "dan",
+        "alpha2": "da",
+        "english_name": "Danish",
+        "french_name": "danois"
+    },
+    {
+        "alpha3_terminology": "dar",
+        "alpha3_bibliographic": "dar",
+        "alpha2": null,
+        "english_name": "Dargwa",
+        "french_name": "dargwa"
+    },
+    {
+        "alpha3_terminology": "day",
+        "alpha3_bibliographic": "day",
+        "alpha2": null,
+        "english_name": "Land Dayak languages",
+        "french_name": "dayak, langues"
+    },
+    {
+        "alpha3_terminology": "del",
+        "alpha3_bibliographic": "del",
+        "alpha2": null,
+        "english_name": "Delaware",
+        "french_name": "delaware"
+    },
+    {
+        "alpha3_terminology": "den",
+        "alpha3_bibliographic": "den",
+        "alpha2": null,
+        "english_name": "Slave (Athapascan)",
+        "french_name": "esclave (athapascan)"
+    },
+    {
+        "alpha3_terminology": "dgr",
+        "alpha3_bibliographic": "dgr",
+        "alpha2": null,
+        "english_name": "Tlicho; Dogrib",
+        "french_name": "tlicho; dogrib"
+    },
+    {
+        "alpha3_terminology": "din",
+        "alpha3_bibliographic": "din",
+        "alpha2": null,
+        "english_name": "Dinka",
+        "french_name": "dinka"
+    },
+    {
+        "alpha3_terminology": "div",
+        "alpha3_bibliographic": "div",
+        "alpha2": "dv",
+        "english_name": "Divehi; Dhivehi; Maldivian",
+        "french_name": "maldivien"
+    },
+    {
+        "alpha3_terminology": "doi",
+        "alpha3_bibliographic": "doi",
+        "alpha2": null,
+        "english_name": "Dogri",
+        "french_name": "dogri"
+    },
+    {
+        "alpha3_terminology": "dra",
+        "alpha3_bibliographic": "dra",
+        "alpha2": null,
+        "english_name": "Dravidian languages",
+        "french_name": "dravidiennes, langues"
+    },
+    {
+        "alpha3_terminology": "dsb",
+        "alpha3_bibliographic": "dsb",
+        "alpha2": null,
+        "english_name": "Lower Sorbian",
+        "french_name": "bas-sorabe"
+    },
+    {
+        "alpha3_terminology": "dua",
+        "alpha3_bibliographic": "dua",
+        "alpha2": null,
+        "english_name": "Duala",
+        "french_name": "douala"
+    },
+    {
+        "alpha3_terminology": "dum",
+        "alpha3_bibliographic": "dum",
+        "alpha2": null,
+        "english_name": "Dutch, Middle (ca.1050-1350)",
+        "french_name": "néerlandais moyen (ca. 1050-1350)"
+    },
+    {
+        "alpha3_terminology": "nld",
+        "alpha3_bibliographic": "dut",
+        "alpha2": "nl",
+        "english_name": "Dutch; Flemish",
+        "french_name": "néerlandais; flamand"
+    },
+    {
+        "alpha3_terminology": "dyu",
+        "alpha3_bibliographic": "dyu",
+        "alpha2": null,
+        "english_name": "Dyula",
+        "french_name": "dioula"
+    },
+    {
+        "alpha3_terminology": "dzo",
+        "alpha3_bibliographic": "dzo",
+        "alpha2": "dz",
+        "english_name": "Dzongkha",
+        "french_name": "dzongkha"
+    },
+    {
+        "alpha3_terminology": "efi",
+        "alpha3_bibliographic": "efi",
+        "alpha2": null,
+        "english_name": "Efik",
+        "french_name": "efik"
+    },
+    {
+        "alpha3_terminology": "egy",
+        "alpha3_bibliographic": "egy",
+        "alpha2": null,
+        "english_name": "Egyptian (Ancient)",
+        "french_name": "égyptien"
+    },
+    {
+        "alpha3_terminology": "eka",
+        "alpha3_bibliographic": "eka",
+        "alpha2": null,
+        "english_name": "Ekajuk",
+        "french_name": "ekajuk"
+    },
+    {
+        "alpha3_terminology": "elx",
+        "alpha3_bibliographic": "elx",
+        "alpha2": null,
+        "english_name": "Elamite",
+        "french_name": "élamite"
+    },
+    {
+        "alpha3_terminology": "eng",
+        "alpha3_bibliographic": "eng",
+        "alpha2": "en",
+        "english_name": "English",
+        "french_name": "anglais"
+    },
+    {
+        "alpha3_terminology": "enm",
+        "alpha3_bibliographic": "enm",
+        "alpha2": null,
+        "english_name": "English, Middle (1100-1500)",
+        "french_name": "anglais moyen (1100-1500)"
+    },
+    {
+        "alpha3_terminology": "epo",
+        "alpha3_bibliographic": "epo",
+        "alpha2": "eo",
+        "english_name": "Esperanto",
+        "french_name": "espéranto"
+    },
+    {
+        "alpha3_terminology": "est",
+        "alpha3_bibliographic": "est",
+        "alpha2": "et",
+        "english_name": "Estonian",
+        "french_name": "estonien"
+    },
+    {
+        "alpha3_terminology": "ewe",
+        "alpha3_bibliographic": "ewe",
+        "alpha2": "ee",
+        "english_name": "Ewe",
+        "french_name": "éwé"
+    },
+    {
+        "alpha3_terminology": "ewo",
+        "alpha3_bibliographic": "ewo",
+        "alpha2": null,
+        "english_name": "Ewondo",
+        "french_name": "éwondo"
+    },
+    {
+        "alpha3_terminology": "fan",
+        "alpha3_bibliographic": "fan",
+        "alpha2": null,
+        "english_name": "Fang",
+        "french_name": "fang"
+    },
+    {
+        "alpha3_terminology": "fao",
+        "alpha3_bibliographic": "fao",
+        "alpha2": "fo",
+        "english_name": "Faroese",
+        "french_name": "féroïen"
+    },
+    {
+        "alpha3_terminology": "fat",
+        "alpha3_bibliographic": "fat",
+        "alpha2": null,
+        "english_name": "Fanti",
+        "french_name": "fanti"
+    },
+    {
+        "alpha3_terminology": "fij",
+        "alpha3_bibliographic": "fij",
+        "alpha2": "fj",
+        "english_name": "Fijian",
+        "french_name": "fidjien"
+    },
+    {
+        "alpha3_terminology": "fil",
+        "alpha3_bibliographic": "fil",
+        "alpha2": null,
+        "english_name": "Filipino; Pilipino",
+        "french_name": "filipino; pilipino"
+    },
+    {
+        "alpha3_terminology": "fin",
+        "alpha3_bibliographic": "fin",
+        "alpha2": "fi",
+        "english_name": "Finnish",
+        "french_name": "finnois"
+    },
+    {
+        "alpha3_terminology": "fiu",
+        "alpha3_bibliographic": "fiu",
+        "alpha2": null,
+        "english_name": "Finno-Ugrian languages",
+        "french_name": "finno-ougriennes, langues"
+    },
+    {
+        "alpha3_terminology": "fon",
+        "alpha3_bibliographic": "fon",
+        "alpha2": null,
+        "english_name": "Fon",
+        "french_name": "fon"
+    },
+    {
+        "alpha3_terminology": "fra",
+        "alpha3_bibliographic": "fre",
+        "alpha2": "fr",
+        "english_name": "French",
+        "french_name": "français"
+    },
+    {
+        "alpha3_terminology": "frm",
+        "alpha3_bibliographic": "frm",
+        "alpha2": null,
+        "english_name": "French, Middle (ca.1400-1600)",
+        "french_name": "français moyen (1400-1600)"
+    },
+    {
+        "alpha3_terminology": "fro",
+        "alpha3_bibliographic": "fro",
+        "alpha2": null,
+        "english_name": "French, Old (842-ca.1400)",
+        "french_name": "français ancien (842-ca.1400)"
+    },
+    {
+        "alpha3_terminology": "frr",
+        "alpha3_bibliographic": "frr",
+        "alpha2": null,
+        "english_name": "Northern Frisian",
+        "french_name": "frison septentrional"
+    },
+    {
+        "alpha3_terminology": "frs",
+        "alpha3_bibliographic": "frs",
+        "alpha2": null,
+        "english_name": "Eastern Frisian",
+        "french_name": "frison oriental"
+    },
+    {
+        "alpha3_terminology": "fry",
+        "alpha3_bibliographic": "fry",
+        "alpha2": "fy",
+        "english_name": "Western Frisian",
+        "french_name": "frison occidental"
+    },
+    {
+        "alpha3_terminology": "ful",
+        "alpha3_bibliographic": "ful",
+        "alpha2": "ff",
+        "english_name": "Fulah",
+        "french_name": "peul"
+    },
+    {
+        "alpha3_terminology": "fur",
+        "alpha3_bibliographic": "fur",
+        "alpha2": null,
+        "english_name": "Friulian",
+        "french_name": "frioulan"
+    },
+    {
+        "alpha3_terminology": "gaa",
+        "alpha3_bibliographic": "gaa",
+        "alpha2": null,
+        "english_name": "Ga",
+        "french_name": "ga"
+    },
+    {
+        "alpha3_terminology": "gay",
+        "alpha3_bibliographic": "gay",
+        "alpha2": null,
+        "english_name": "Gayo",
+        "french_name": "gayo"
+    },
+    {
+        "alpha3_terminology": "gba",
+        "alpha3_bibliographic": "gba",
+        "alpha2": null,
+        "english_name": "Gbaya",
+        "french_name": "gbaya"
+    },
+    {
+        "alpha3_terminology": "gem",
+        "alpha3_bibliographic": "gem",
+        "alpha2": null,
+        "english_name": "Germanic languages",
+        "french_name": "germaniques, langues"
+    },
+    {
+        "alpha3_terminology": "kat",
+        "alpha3_bibliographic": "geo",
+        "alpha2": "ka",
+        "english_name": "Georgian",
+        "french_name": "géorgien"
+    },
+    {
+        "alpha3_terminology": "deu",
+        "alpha3_bibliographic": "ger",
+        "alpha2": "de",
+        "english_name": "German",
+        "french_name": "allemand"
+    },
+    {
+        "alpha3_terminology": "gez",
+        "alpha3_bibliographic": "gez",
+        "alpha2": null,
+        "english_name": "Geez",
+        "french_name": "guèze"
+    },
+    {
+        "alpha3_terminology": "gil",
+        "alpha3_bibliographic": "gil",
+        "alpha2": null,
+        "english_name": "Gilbertese",
+        "french_name": "kiribati"
+    },
+    {
+        "alpha3_terminology": "gla",
+        "alpha3_bibliographic": "gla",
+        "alpha2": "gd",
+        "english_name": "Gaelic; Scottish Gaelic",
+        "french_name": "gaélique; gaélique écossais"
+    },
+    {
+        "alpha3_terminology": "gle",
+        "alpha3_bibliographic": "gle",
+        "alpha2": "ga",
+        "english_name": "Irish",
+        "french_name": "irlandais"
+    },
+    {
+        "alpha3_terminology": "glg",
+        "alpha3_bibliographic": "glg",
+        "alpha2": "gl",
+        "english_name": "Galician",
+        "french_name": "galicien"
+    },
+    {
+        "alpha3_terminology": "glv",
+        "alpha3_bibliographic": "glv",
+        "alpha2": "gv",
+        "english_name": "Manx",
+        "french_name": "manx; mannois"
+    },
+    {
+        "alpha3_terminology": "gmh",
+        "alpha3_bibliographic": "gmh",
+        "alpha2": null,
+        "english_name": "German, Middle High (ca.1050-1500)",
+        "french_name": "allemand, moyen haut (ca. 1050-1500)"
+    },
+    {
+        "alpha3_terminology": "goh",
+        "alpha3_bibliographic": "goh",
+        "alpha2": null,
+        "english_name": "German, Old High (ca.750-1050)",
+        "french_name": "allemand, vieux haut (ca. 750-1050)"
+    },
+    {
+        "alpha3_terminology": "gon",
+        "alpha3_bibliographic": "gon",
+        "alpha2": null,
+        "english_name": "Gondi",
+        "french_name": "gond"
+    },
+    {
+        "alpha3_terminology": "gor",
+        "alpha3_bibliographic": "gor",
+        "alpha2": null,
+        "english_name": "Gorontalo",
+        "french_name": "gorontalo"
+    },
+    {
+        "alpha3_terminology": "got",
+        "alpha3_bibliographic": "got",
+        "alpha2": null,
+        "english_name": "Gothic",
+        "french_name": "gothique"
+    },
+    {
+        "alpha3_terminology": "grb",
+        "alpha3_bibliographic": "grb",
+        "alpha2": null,
+        "english_name": "Grebo",
+        "french_name": "grebo"
+    },
+    {
+        "alpha3_terminology": "grc",
+        "alpha3_bibliographic": "grc",
+        "alpha2": null,
+        "english_name": "Greek, Ancient (to 1453)",
+        "french_name": "grec ancien (jusqu'à 1453)"
+    },
+    {
+        "alpha3_terminology": "ell",
+        "alpha3_bibliographic": "gre",
+        "alpha2": "el",
+        "english_name": "Modern Greek (1453-)",
+        "french_name": "grec moderne (1453-)"
+    },
+    {
+        "alpha3_terminology": "grn",
+        "alpha3_bibliographic": "grn",
+        "alpha2": "gn",
+        "english_name": "Guarani",
+        "french_name": "guarani"
+    },
+    {
+        "alpha3_terminology": "gsw",
+        "alpha3_bibliographic": "gsw",
+        "alpha2": null,
+        "english_name": "Swiss German; Alemannic; Alsatian",
+        "french_name": "suisse alémanique; alémanique; alsacien"
+    },
+    {
+        "alpha3_terminology": "guj",
+        "alpha3_bibliographic": "guj",
+        "alpha2": "gu",
+        "english_name": "Gujarati",
+        "french_name": "goudjrati"
+    },
+    {
+        "alpha3_terminology": "gwi",
+        "alpha3_bibliographic": "gwi",
+        "alpha2": null,
+        "english_name": "Gwich'in",
+        "french_name": "gwich'in"
+    },
+    {
+        "alpha3_terminology": "hai",
+        "alpha3_bibliographic": "hai",
+        "alpha2": null,
+        "english_name": "Haida",
+        "french_name": "haida"
+    },
+    {
+        "alpha3_terminology": "hat",
+        "alpha3_bibliographic": "hat",
+        "alpha2": "ht",
+        "english_name": "Haitian; Haitian Creole",
+        "french_name": "haïtien; créole haïtien"
+    },
+    {
+        "alpha3_terminology": "hau",
+        "alpha3_bibliographic": "hau",
+        "alpha2": "ha",
+        "english_name": "Hausa",
+        "french_name": "haoussa"
+    },
+    {
+        "alpha3_terminology": "haw",
+        "alpha3_bibliographic": "haw",
+        "alpha2": null,
+        "english_name": "Hawaiian",
+        "french_name": "hawaïen"
+    },
+    {
+        "alpha3_terminology": "heb",
+        "alpha3_bibliographic": "heb",
+        "alpha2": "he",
+        "english_name": "Hebrew",
+        "french_name": "hébreu"
+    },
+    {
+        "alpha3_terminology": "her",
+        "alpha3_bibliographic": "her",
+        "alpha2": "hz",
+        "english_name": "Herero",
+        "french_name": "herero"
+    },
+    {
+        "alpha3_terminology": "hil",
+        "alpha3_bibliographic": "hil",
+        "alpha2": null,
+        "english_name": "Hiligaynon",
+        "french_name": "hiligaynon"
+    },
+    {
+        "alpha3_terminology": "him",
+        "alpha3_bibliographic": "him",
+        "alpha2": null,
+        "english_name": "Himachali languages; Western Pahari languages",
+        "french_name": "langues himachalis; langues paharis occidentales"
+    },
+    {
+        "alpha3_terminology": "hin",
+        "alpha3_bibliographic": "hin",
+        "alpha2": "hi",
+        "english_name": "Hindi",
+        "french_name": "hindi"
+    },
+    {
+        "alpha3_terminology": "hit",
+        "alpha3_bibliographic": "hit",
+        "alpha2": null,
+        "english_name": "Hittite",
+        "french_name": "hittite"
+    },
+    {
+        "alpha3_terminology": "hmn",
+        "alpha3_bibliographic": "hmn",
+        "alpha2": null,
+        "english_name": "Hmong; Mong",
+        "french_name": "hmong"
+    },
+    {
+        "alpha3_terminology": "hmo",
+        "alpha3_bibliographic": "hmo",
+        "alpha2": "ho",
+        "english_name": "Hiri Motu",
+        "french_name": "hiri motu"
+    },
+    {
+        "alpha3_terminology": "hrv",
+        "alpha3_bibliographic": "hrv",
+        "alpha2": "hr",
+        "english_name": "Croatian",
+        "french_name": "croate"
+    },
+    {
+        "alpha3_terminology": "hsb",
+        "alpha3_bibliographic": "hsb",
+        "alpha2": null,
+        "english_name": "Upper Sorbian",
+        "french_name": "haut-sorabe"
+    },
+    {
+        "alpha3_terminology": "hun",
+        "alpha3_bibliographic": "hun",
+        "alpha2": "hu",
+        "english_name": "Hungarian",
+        "french_name": "hongrois"
+    },
+    {
+        "alpha3_terminology": "hup",
+        "alpha3_bibliographic": "hup",
+        "alpha2": null,
+        "english_name": "Hupa",
+        "french_name": "hupa"
+    },
+    {
+        "alpha3_terminology": "iba",
+        "alpha3_bibliographic": "iba",
+        "alpha2": null,
+        "english_name": "Iban",
+        "french_name": "iban"
+    },
+    {
+        "alpha3_terminology": "ibo",
+        "alpha3_bibliographic": "ibo",
+        "alpha2": "ig",
+        "english_name": "Igbo",
+        "french_name": "igbo"
+    },
+    {
+        "alpha3_terminology": "isl",
+        "alpha3_bibliographic": "ice",
+        "alpha2": "is",
+        "english_name": "Icelandic",
+        "french_name": "islandais"
+    },
+    {
+        "alpha3_terminology": "ido",
+        "alpha3_bibliographic": "ido",
+        "alpha2": "io",
+        "english_name": "Ido",
+        "french_name": "ido"
+    },
+    {
+        "alpha3_terminology": "iii",
+        "alpha3_bibliographic": "iii",
+        "alpha2": "ii",
+        "english_name": "Sichuan Yi; Nuosu",
+        "french_name": "yi de Sichuan"
+    },
+    {
+        "alpha3_terminology": "ijo",
+        "alpha3_bibliographic": "ijo",
+        "alpha2": null,
+        "english_name": "Ijo languages",
+        "french_name": "ijo, langues"
+    },
+    {
+        "alpha3_terminology": "iku",
+        "alpha3_bibliographic": "iku",
+        "alpha2": "iu",
+        "english_name": "Inuktitut",
+        "french_name": "inuktitut"
+    },
+    {
+        "alpha3_terminology": "ile",
+        "alpha3_bibliographic": "ile",
+        "alpha2": "ie",
+        "english_name": "Interlingue; Occidental",
+        "french_name": "interlingue"
+    },
+    {
+        "alpha3_terminology": "ilo",
+        "alpha3_bibliographic": "ilo",
+        "alpha2": null,
+        "english_name": "Iloko",
+        "french_name": "ilocano"
+    },
+    {
+        "alpha3_terminology": "ina",
+        "alpha3_bibliographic": "ina",
+        "alpha2": "ia",
+        "english_name": "Interlingua (International Auxiliary Language Association)",
+        "french_name": "interlingua (langue auxiliaire internationale)"
+    },
+    {
+        "alpha3_terminology": "inc",
+        "alpha3_bibliographic": "inc",
+        "alpha2": null,
+        "english_name": "Indic languages",
+        "french_name": "indo-aryennes, langues"
+    },
+    {
+        "alpha3_terminology": "ind",
+        "alpha3_bibliographic": "ind",
+        "alpha2": "id",
+        "english_name": "Indonesian",
+        "french_name": "indonésien"
+    },
+    {
+        "alpha3_terminology": "ine",
+        "alpha3_bibliographic": "ine",
+        "alpha2": null,
+        "english_name": "Indo-European languages",
+        "french_name": "indo-européennes, langues"
+    },
+    {
+        "alpha3_terminology": "inh",
+        "alpha3_bibliographic": "inh",
+        "alpha2": null,
+        "english_name": "Ingush",
+        "french_name": "ingouche"
+    },
+    {
+        "alpha3_terminology": "ipk",
+        "alpha3_bibliographic": "ipk",
+        "alpha2": "ik",
+        "english_name": "Inupiaq",
+        "french_name": "inupiaq"
+    },
+    {
+        "alpha3_terminology": "ira",
+        "alpha3_bibliographic": "ira",
+        "alpha2": null,
+        "english_name": "Iranian languages",
+        "french_name": "iraniennes, langues"
+    },
+    {
+        "alpha3_terminology": "iro",
+        "alpha3_bibliographic": "iro",
+        "alpha2": null,
+        "english_name": "Iroquoian languages",
+        "french_name": "iroquoises, langues"
+    },
+    {
+        "alpha3_terminology": "ita",
+        "alpha3_bibliographic": "ita",
+        "alpha2": "it",
+        "english_name": "Italian",
+        "french_name": "italien"
+    },
+    {
+        "alpha3_terminology": "jav",
+        "alpha3_bibliographic": "jav",
+        "alpha2": "jv",
+        "english_name": "Javanese",
+        "french_name": "javanais"
+    },
+    {
+        "alpha3_terminology": "jbo",
+        "alpha3_bibliographic": "jbo",
+        "alpha2": null,
+        "english_name": "Lojban",
+        "french_name": "lojban"
+    },
+    {
+        "alpha3_terminology": "jpn",
+        "alpha3_bibliographic": "jpn",
+        "alpha2": "ja",
+        "english_name": "Japanese",
+        "french_name": "japonais"
+    },
+    {
+        "alpha3_terminology": "jpr",
+        "alpha3_bibliographic": "jpr",
+        "alpha2": null,
+        "english_name": "Judeo-Persian",
+        "french_name": "judéo-persan"
+    },
+    {
+        "alpha3_terminology": "jrb",
+        "alpha3_bibliographic": "jrb",
+        "alpha2": null,
+        "english_name": "Judeo-Arabic",
+        "french_name": "judéo-arabe"
+    },
+    {
+        "alpha3_terminology": "kaa",
+        "alpha3_bibliographic": "kaa",
+        "alpha2": null,
+        "english_name": "Kara-Kalpak",
+        "french_name": "karakalpak"
+    },
+    {
+        "alpha3_terminology": "kab",
+        "alpha3_bibliographic": "kab",
+        "alpha2": null,
+        "english_name": "Kabyle",
+        "french_name": "kabyle"
+    },
+    {
+        "alpha3_terminology": "kac",
+        "alpha3_bibliographic": "kac",
+        "alpha2": null,
+        "english_name": "Kachin; Jingpho",
+        "french_name": "kachin; jingpho"
+    },
+    {
+        "alpha3_terminology": "kal",
+        "alpha3_bibliographic": "kal",
+        "alpha2": "kl",
+        "english_name": "Kalaallisut; Greenlandic",
+        "french_name": "groenlandais"
+    },
+    {
+        "alpha3_terminology": "kam",
+        "alpha3_bibliographic": "kam",
+        "alpha2": null,
+        "english_name": "Kamba",
+        "french_name": "kamba"
+    },
+    {
+        "alpha3_terminology": "kan",
+        "alpha3_bibliographic": "kan",
+        "alpha2": "kn",
+        "english_name": "Kannada",
+        "french_name": "kannada"
+    },
+    {
+        "alpha3_terminology": "kar",
+        "alpha3_bibliographic": "kar",
+        "alpha2": null,
+        "english_name": "Karen languages",
+        "french_name": "karen, langues"
+    },
+    {
+        "alpha3_terminology": "kas",
+        "alpha3_bibliographic": "kas",
+        "alpha2": "ks",
+        "english_name": "Kashmiri",
+        "french_name": "kashmiri"
+    },
+    {
+        "alpha3_terminology": "kau",
+        "alpha3_bibliographic": "kau",
+        "alpha2": "kr",
+        "english_name": "Kanuri",
+        "french_name": "kanouri"
+    },
+    {
+        "alpha3_terminology": "kaw",
+        "alpha3_bibliographic": "kaw",
+        "alpha2": null,
+        "english_name": "Kawi",
+        "french_name": "kawi"
+    },
+    {
+        "alpha3_terminology": "kaz",
+        "alpha3_bibliographic": "kaz",
+        "alpha2": "kk",
+        "english_name": "Kazakh",
+        "french_name": "kazakh"
+    },
+    {
+        "alpha3_terminology": "kbd",
+        "alpha3_bibliographic": "kbd",
+        "alpha2": null,
+        "english_name": "Kabardian",
+        "french_name": "kabardien"
+    },
+    {
+        "alpha3_terminology": "kha",
+        "alpha3_bibliographic": "kha",
+        "alpha2": null,
+        "english_name": "Khasi",
+        "french_name": "khasi"
+    },
+    {
+        "alpha3_terminology": "khi",
+        "alpha3_bibliographic": "khi",
+        "alpha2": null,
+        "english_name": "Khoisan languages",
+        "french_name": "khoïsan, langues"
+    },
+    {
+        "alpha3_terminology": "khm",
+        "alpha3_bibliographic": "khm",
+        "alpha2": "km",
+        "english_name": "Central Khmer",
+        "french_name": "khmer central"
+    },
+    {
+        "alpha3_terminology": "kho",
+        "alpha3_bibliographic": "kho",
+        "alpha2": null,
+        "english_name": "Khotanese; Sakan",
+        "french_name": "khotanais; sakan"
+    },
+    {
+        "alpha3_terminology": "kik",
+        "alpha3_bibliographic": "kik",
+        "alpha2": "ki",
+        "english_name": "Kikuyu; Gikuyu",
+        "french_name": "kikuyu"
+    },
+    {
+        "alpha3_terminology": "kin",
+        "alpha3_bibliographic": "kin",
+        "alpha2": "rw",
+        "english_name": "Kinyarwanda",
+        "french_name": "rwanda"
+    },
+    {
+        "alpha3_terminology": "kir",
+        "alpha3_bibliographic": "kir",
+        "alpha2": "ky",
+        "english_name": "Kirghiz; Kyrgyz",
+        "french_name": "kirghiz"
+    },
+    {
+        "alpha3_terminology": "kmb",
+        "alpha3_bibliographic": "kmb",
+        "alpha2": null,
+        "english_name": "Kimbundu",
+        "french_name": "kimbundu"
+    },
+    {
+        "alpha3_terminology": "kok",
+        "alpha3_bibliographic": "kok",
+        "alpha2": null,
+        "english_name": "Konkani",
+        "french_name": "konkani"
+    },
+    {
+        "alpha3_terminology": "kom",
+        "alpha3_bibliographic": "kom",
+        "alpha2": "kv",
+        "english_name": "Komi",
+        "french_name": "kom"
+    },
+    {
+        "alpha3_terminology": "kon",
+        "alpha3_bibliographic": "kon",
+        "alpha2": "kg",
+        "english_name": "Kongo",
+        "french_name": "kongo"
+    },
+    {
+        "alpha3_terminology": "kor",
+        "alpha3_bibliographic": "kor",
+        "alpha2": "ko",
+        "english_name": "Korean",
+        "french_name": "coréen"
+    },
+    {
+        "alpha3_terminology": "kos",
+        "alpha3_bibliographic": "kos",
+        "alpha2": null,
+        "english_name": "Kosraean",
+        "french_name": "kosrae"
+    },
+    {
+        "alpha3_terminology": "kpe",
+        "alpha3_bibliographic": "kpe",
+        "alpha2": null,
+        "english_name": "Kpelle",
+        "french_name": "kpellé"
+    },
+    {
+        "alpha3_terminology": "krc",
+        "alpha3_bibliographic": "krc",
+        "alpha2": null,
+        "english_name": "Karachay-Balkar",
+        "french_name": "karatchai balkar"
+    },
+    {
+        "alpha3_terminology": "krl",
+        "alpha3_bibliographic": "krl",
+        "alpha2": null,
+        "english_name": "Karelian",
+        "french_name": "carélien"
+    },
+    {
+        "alpha3_terminology": "kro",
+        "alpha3_bibliographic": "kro",
+        "alpha2": null,
+        "english_name": "Kru languages",
+        "french_name": "krou, langues"
+    },
+    {
+        "alpha3_terminology": "kru",
+        "alpha3_bibliographic": "kru",
+        "alpha2": null,
+        "english_name": "Kurukh",
+        "french_name": "kurukh"
+    },
+    {
+        "alpha3_terminology": "kua",
+        "alpha3_bibliographic": "kua",
+        "alpha2": "kj",
+        "english_name": "Kuanyama; Kwanyama",
+        "french_name": "kuanyama; kwanyama"
+    },
+    {
+        "alpha3_terminology": "kum",
+        "alpha3_bibliographic": "kum",
+        "alpha2": null,
+        "english_name": "Kumyk",
+        "french_name": "koumyk"
+    },
+    {
+        "alpha3_terminology": "kur",
+        "alpha3_bibliographic": "kur",
+        "alpha2": "ku",
+        "english_name": "Kurdish",
+        "french_name": "kurde"
+    },
+    {
+        "alpha3_terminology": "kut",
+        "alpha3_bibliographic": "kut",
+        "alpha2": null,
+        "english_name": "Kutenai",
+        "french_name": "kutenai"
+    },
+    {
+        "alpha3_terminology": "lad",
+        "alpha3_bibliographic": "lad",
+        "alpha2": null,
+        "english_name": "Ladino",
+        "french_name": "judéo-espagnol"
+    },
+    {
+        "alpha3_terminology": "lah",
+        "alpha3_bibliographic": "lah",
+        "alpha2": null,
+        "english_name": "Lahnda",
+        "french_name": "lahnda"
+    },
+    {
+        "alpha3_terminology": "lam",
+        "alpha3_bibliographic": "lam",
+        "alpha2": null,
+        "english_name": "Lamba",
+        "french_name": "lamba"
+    },
+    {
+        "alpha3_terminology": "lao",
+        "alpha3_bibliographic": "lao",
+        "alpha2": "lo",
+        "english_name": "Lao",
+        "french_name": "lao"
+    },
+    {
+        "alpha3_terminology": "lat",
+        "alpha3_bibliographic": "lat",
+        "alpha2": "la",
+        "english_name": "Latin",
+        "french_name": "latin"
+    },
+    {
+        "alpha3_terminology": "lav",
+        "alpha3_bibliographic": "lav",
+        "alpha2": "lv",
+        "english_name": "Latvian",
+        "french_name": "letton"
+    },
+    {
+        "alpha3_terminology": "lez",
+        "alpha3_bibliographic": "lez",
+        "alpha2": null,
+        "english_name": "Lezghian",
+        "french_name": "lezghien"
+    },
+    {
+        "alpha3_terminology": "lim",
+        "alpha3_bibliographic": "lim",
+        "alpha2": "li",
+        "english_name": "Limburgan; Limburger; Limburgish",
+        "french_name": "limbourgeois"
+    },
+    {
+        "alpha3_terminology": "lin",
+        "alpha3_bibliographic": "lin",
+        "alpha2": "ln",
+        "english_name": "Lingala",
+        "french_name": "lingala"
+    },
+    {
+        "alpha3_terminology": "lit",
+        "alpha3_bibliographic": "lit",
+        "alpha2": "lt",
+        "english_name": "Lithuanian",
+        "french_name": "lituanien"
+    },
+    {
+        "alpha3_terminology": "lol",
+        "alpha3_bibliographic": "lol",
+        "alpha2": null,
+        "english_name": "Mongo",
+        "french_name": "mongo"
+    },
+    {
+        "alpha3_terminology": "loz",
+        "alpha3_bibliographic": "loz",
+        "alpha2": null,
+        "english_name": "Lozi",
+        "french_name": "lozi"
+    },
+    {
+        "alpha3_terminology": "ltz",
+        "alpha3_bibliographic": "ltz",
+        "alpha2": "lb",
+        "english_name": "Luxembourgish; Letzeburgesch",
+        "french_name": "luxembourgeois"
+    },
+    {
+        "alpha3_terminology": "lua",
+        "alpha3_bibliographic": "lua",
+        "alpha2": null,
+        "english_name": "Luba-Lulua",
+        "french_name": "luba-lulua"
+    },
+    {
+        "alpha3_terminology": "lub",
+        "alpha3_bibliographic": "lub",
+        "alpha2": "lu",
+        "english_name": "Luba-Katanga",
+        "french_name": "luba-katanga"
+    },
+    {
+        "alpha3_terminology": "lug",
+        "alpha3_bibliographic": "lug",
+        "alpha2": "lg",
+        "english_name": "Ganda",
+        "french_name": "ganda"
+    },
+    {
+        "alpha3_terminology": "lui",
+        "alpha3_bibliographic": "lui",
+        "alpha2": null,
+        "english_name": "Luiseno",
+        "french_name": "luiseno"
+    },
+    {
+        "alpha3_terminology": "lun",
+        "alpha3_bibliographic": "lun",
+        "alpha2": null,
+        "english_name": "Lunda",
+        "french_name": "lunda"
+    },
+    {
+        "alpha3_terminology": "luo",
+        "alpha3_bibliographic": "luo",
+        "alpha2": null,
+        "english_name": "Luo (Kenya and Tanzania)",
+        "french_name": "luo (Kenya et Tanzanie)"
+    },
+    {
+        "alpha3_terminology": "lus",
+        "alpha3_bibliographic": "lus",
+        "alpha2": null,
+        "english_name": "Lushai",
+        "french_name": "lushai"
+    },
+    {
+        "alpha3_terminology": "mkd",
+        "alpha3_bibliographic": "mac",
+        "alpha2": "mk",
+        "english_name": "Macedonian",
+        "french_name": "macédonien"
+    },
+    {
+        "alpha3_terminology": "mad",
+        "alpha3_bibliographic": "mad",
+        "alpha2": null,
+        "english_name": "Madurese",
+        "french_name": "madourais"
+    },
+    {
+        "alpha3_terminology": "mag",
+        "alpha3_bibliographic": "mag",
+        "alpha2": null,
+        "english_name": "Magahi",
+        "french_name": "magahi"
+    },
+    {
+        "alpha3_terminology": "mah",
+        "alpha3_bibliographic": "mah",
+        "alpha2": "mh",
+        "english_name": "Marshallese",
+        "french_name": "marshall"
+    },
+    {
+        "alpha3_terminology": "mai",
+        "alpha3_bibliographic": "mai",
+        "alpha2": null,
+        "english_name": "Maithili",
+        "french_name": "maithili"
+    },
+    {
+        "alpha3_terminology": "mak",
+        "alpha3_bibliographic": "mak",
+        "alpha2": null,
+        "english_name": "Makasar",
+        "french_name": "makassar"
+    },
+    {
+        "alpha3_terminology": "mal",
+        "alpha3_bibliographic": "mal",
+        "alpha2": "ml",
+        "english_name": "Malayalam",
+        "french_name": "malayalam"
+    },
+    {
+        "alpha3_terminology": "man",
+        "alpha3_bibliographic": "man",
+        "alpha2": null,
+        "english_name": "Mandingo",
+        "french_name": "mandingue"
+    },
+    {
+        "alpha3_terminology": "mri",
+        "alpha3_bibliographic": "mao",
+        "alpha2": "mi",
+        "english_name": "Maori",
+        "french_name": "maori"
+    },
+    {
+        "alpha3_terminology": "map",
+        "alpha3_bibliographic": "map",
+        "alpha2": null,
+        "english_name": "Austronesian languages",
+        "french_name": "austronésiennes, langues"
+    },
+    {
+        "alpha3_terminology": "mar",
+        "alpha3_bibliographic": "mar",
+        "alpha2": "mr",
+        "english_name": "Marathi",
+        "french_name": "marathe"
+    },
+    {
+        "alpha3_terminology": "mas",
+        "alpha3_bibliographic": "mas",
+        "alpha2": null,
+        "english_name": "Masai",
+        "french_name": "massaï"
+    },
+    {
+        "alpha3_terminology": "msa",
+        "alpha3_bibliographic": "may",
+        "alpha2": "ms",
+        "english_name": "Malay",
+        "french_name": "malais"
+    },
+    {
+        "alpha3_terminology": "mdf",
+        "alpha3_bibliographic": "mdf",
+        "alpha2": null,
+        "english_name": "Moksha",
+        "french_name": "moksa"
+    },
+    {
+        "alpha3_terminology": "mdr",
+        "alpha3_bibliographic": "mdr",
+        "alpha2": null,
+        "english_name": "Mandar",
+        "french_name": "mandar"
+    },
+    {
+        "alpha3_terminology": "men",
+        "alpha3_bibliographic": "men",
+        "alpha2": null,
+        "english_name": "Mende",
+        "french_name": "mendé"
+    },
+    {
+        "alpha3_terminology": "mga",
+        "alpha3_bibliographic": "mga",
+        "alpha2": null,
+        "english_name": "Irish, Middle (900-1200)",
+        "french_name": "irlandais moyen (900-1200)"
+    },
+    {
+        "alpha3_terminology": "mic",
+        "alpha3_bibliographic": "mic",
+        "alpha2": null,
+        "english_name": "Mi'kmaq; Micmac",
+        "french_name": "mi'kmaq; micmac"
+    },
+    {
+        "alpha3_terminology": "min",
+        "alpha3_bibliographic": "min",
+        "alpha2": null,
+        "english_name": "Minangkabau",
+        "french_name": "minangkabau"
+    },
+    {
+        "alpha3_terminology": "mis",
+        "alpha3_bibliographic": "mis",
+        "alpha2": null,
+        "english_name": "Uncoded languages",
+        "french_name": "langues non codées"
+    },
+    {
+        "alpha3_terminology": "mkh",
+        "alpha3_bibliographic": "mkh",
+        "alpha2": null,
+        "english_name": "Mon-Khmer languages",
+        "french_name": "môn-khmer, langues"
+    },
+    {
+        "alpha3_terminology": "mlg",
+        "alpha3_bibliographic": "mlg",
+        "alpha2": "mg",
+        "english_name": "Malagasy",
+        "french_name": "malgache"
+    },
+    {
+        "alpha3_terminology": "mlt",
+        "alpha3_bibliographic": "mlt",
+        "alpha2": "mt",
+        "english_name": "Maltese",
+        "french_name": "maltais"
+    },
+    {
+        "alpha3_terminology": "mnc",
+        "alpha3_bibliographic": "mnc",
+        "alpha2": null,
+        "english_name": "Manchu",
+        "french_name": "mandchou"
+    },
+    {
+        "alpha3_terminology": "mni",
+        "alpha3_bibliographic": "mni",
+        "alpha2": null,
+        "english_name": "Manipuri",
+        "french_name": "manipuri"
+    },
+    {
+        "alpha3_terminology": "mno",
+        "alpha3_bibliographic": "mno",
+        "alpha2": null,
+        "english_name": "Manobo languages",
+        "french_name": "manobo, langues"
+    },
+    {
+        "alpha3_terminology": "moh",
+        "alpha3_bibliographic": "moh",
+        "alpha2": null,
+        "english_name": "Mohawk",
+        "french_name": "mohawk"
+    },
+    {
+        "alpha3_terminology": "mon",
+        "alpha3_bibliographic": "mon",
+        "alpha2": "mn",
+        "english_name": "Mongolian",
+        "french_name": "mongol"
+    },
+    {
+        "alpha3_terminology": "mos",
+        "alpha3_bibliographic": "mos",
+        "alpha2": null,
+        "english_name": "Mossi",
+        "french_name": "moré"
+    },
+    {
+        "alpha3_terminology": "mul",
+        "alpha3_bibliographic": "mul",
+        "alpha2": null,
+        "english_name": "Multiple languages",
+        "french_name": "multilingue"
+    },
+    {
+        "alpha3_terminology": "mun",
+        "alpha3_bibliographic": "mun",
+        "alpha2": null,
+        "english_name": "Munda languages",
+        "french_name": "mounda, langues"
+    },
+    {
+        "alpha3_terminology": "mus",
+        "alpha3_bibliographic": "mus",
+        "alpha2": null,
+        "english_name": "Creek",
+        "french_name": "muskogee"
+    },
+    {
+        "alpha3_terminology": "mwl",
+        "alpha3_bibliographic": "mwl",
+        "alpha2": null,
+        "english_name": "Mirandese",
+        "french_name": "mirandais"
+    },
+    {
+        "alpha3_terminology": "mwr",
+        "alpha3_bibliographic": "mwr",
+        "alpha2": null,
+        "english_name": "Marwari",
+        "french_name": "marvari"
+    },
+    {
+        "alpha3_terminology": "myn",
+        "alpha3_bibliographic": "myn",
+        "alpha2": null,
+        "english_name": "Mayan languages",
+        "french_name": "maya, langues"
+    },
+    {
+        "alpha3_terminology": "myv",
+        "alpha3_bibliographic": "myv",
+        "alpha2": null,
+        "english_name": "Erzya",
+        "french_name": "erza"
+    },
+    {
+        "alpha3_terminology": "nah",
+        "alpha3_bibliographic": "nah",
+        "alpha2": null,
+        "english_name": "Nahuatl languages",
+        "french_name": "nahuatl, langues"
+    },
+    {
+        "alpha3_terminology": "nai",
+        "alpha3_bibliographic": "nai",
+        "alpha2": null,
+        "english_name": "North American Indian languages",
+        "french_name": "nord-amérindiennes, langues"
+    },
+    {
+        "alpha3_terminology": "nap",
+        "alpha3_bibliographic": "nap",
+        "alpha2": null,
+        "english_name": "Neapolitan",
+        "french_name": "napolitain"
+    },
+    {
+        "alpha3_terminology": "nau",
+        "alpha3_bibliographic": "nau",
+        "alpha2": "na",
+        "english_name": "Nauru",
+        "french_name": "nauruan"
+    },
+    {
+        "alpha3_terminology": "nav",
+        "alpha3_bibliographic": "nav",
+        "alpha2": "nv",
+        "english_name": "Navajo; Navaho",
+        "french_name": "navaho"
+    },
+    {
+        "alpha3_terminology": "nbl",
+        "alpha3_bibliographic": "nbl",
+        "alpha2": "nr",
+        "english_name": "South Ndebele",
+        "french_name": "ndébélé du Sud"
+    },
+    {
+        "alpha3_terminology": "nde",
+        "alpha3_bibliographic": "nde",
+        "alpha2": "nd",
+        "english_name": "North Ndebele",
+        "french_name": "ndébélé du Nord"
+    },
+    {
+        "alpha3_terminology": "ndo",
+        "alpha3_bibliographic": "ndo",
+        "alpha2": "ng",
+        "english_name": "Ndonga",
+        "french_name": "ndonga"
+    },
+    {
+        "alpha3_terminology": "nds",
+        "alpha3_bibliographic": "nds",
+        "alpha2": null,
+        "english_name": "Low German; Low Saxon; German, Low; Saxon, Low",
+        "french_name": "bas allemand; bas saxon; allemand, bas; saxon, bas"
+    },
+    {
+        "alpha3_terminology": "nep",
+        "alpha3_bibliographic": "nep",
+        "alpha2": "ne",
+        "english_name": "Nepali",
+        "french_name": "népalais"
+    },
+    {
+        "alpha3_terminology": "new",
+        "alpha3_bibliographic": "new",
+        "alpha2": null,
+        "english_name": "Nepal Bhasa; Newar; Newari",
+        "french_name": "nepal bhasa; néwar; newari"
+    },
+    {
+        "alpha3_terminology": "nia",
+        "alpha3_bibliographic": "nia",
+        "alpha2": null,
+        "english_name": "Nias",
+        "french_name": "nias"
+    },
+    {
+        "alpha3_terminology": "nic",
+        "alpha3_bibliographic": "nic",
+        "alpha2": null,
+        "english_name": "Niger-Kordofanian languages",
+        "french_name": "nigéro-kordofaniennes, langues"
+    },
+    {
+        "alpha3_terminology": "niu",
+        "alpha3_bibliographic": "niu",
+        "alpha2": null,
+        "english_name": "Niuean",
+        "french_name": "niué"
+    },
+    {
+        "alpha3_terminology": "nno",
+        "alpha3_bibliographic": "nno",
+        "alpha2": "nn",
+        "english_name": "Norwegian Nynorsk",
+        "french_name": "norvégien nynorsk"
+    },
+    {
+        "alpha3_terminology": "nob",
+        "alpha3_bibliographic": "nob",
+        "alpha2": "nb",
+        "english_name": "Norwegian Bokmål",
+        "french_name": "norvégien bokmål"
+    },
+    {
+        "alpha3_terminology": "nog",
+        "alpha3_bibliographic": "nog",
+        "alpha2": null,
+        "english_name": "Nogai",
+        "french_name": "nogaï; nogay"
+    },
+    {
+        "alpha3_terminology": "non",
+        "alpha3_bibliographic": "non",
+        "alpha2": null,
+        "english_name": "Norse, Old",
+        "french_name": "norrois, vieux"
+    },
+    {
+        "alpha3_terminology": "nor",
+        "alpha3_bibliographic": "nor",
+        "alpha2": "no",
+        "english_name": "Norwegian",
+        "french_name": "norvégien"
+    },
+    {
+        "alpha3_terminology": "nqo",
+        "alpha3_bibliographic": "nqo",
+        "alpha2": null,
+        "english_name": "N'Ko",
+        "french_name": "n'ko"
+    },
+    {
+        "alpha3_terminology": "nso",
+        "alpha3_bibliographic": "nso",
+        "alpha2": null,
+        "english_name": "Pedi; Sepedi; Northern Sotho",
+        "french_name": "pedi; sepedi; sotho du Nord"
+    },
+    {
+        "alpha3_terminology": "nub",
+        "alpha3_bibliographic": "nub",
+        "alpha2": null,
+        "english_name": "Nubian languages",
+        "french_name": "nubiennes, langues"
+    },
+    {
+        "alpha3_terminology": "nwc",
+        "alpha3_bibliographic": "nwc",
+        "alpha2": null,
+        "english_name": "Classical Newari; Old Newari; Classical Nepal Bhasa",
+        "french_name": "newari classique"
+    },
+    {
+        "alpha3_terminology": "nya",
+        "alpha3_bibliographic": "nya",
+        "alpha2": "ny",
+        "english_name": "Chichewa; Chewa; Nyanja",
+        "french_name": "chichewa; chewa; nyanja"
+    },
+    {
+        "alpha3_terminology": "nym",
+        "alpha3_bibliographic": "nym",
+        "alpha2": null,
+        "english_name": "Nyamwezi",
+        "french_name": "nyamwezi"
+    },
+    {
+        "alpha3_terminology": "nyn",
+        "alpha3_bibliographic": "nyn",
+        "alpha2": null,
+        "english_name": "Nyankole",
+        "french_name": "nyankolé"
+    },
+    {
+        "alpha3_terminology": "nyo",
+        "alpha3_bibliographic": "nyo",
+        "alpha2": null,
+        "english_name": "Nyoro",
+        "french_name": "nyoro"
+    },
+    {
+        "alpha3_terminology": "nzi",
+        "alpha3_bibliographic": "nzi",
+        "alpha2": null,
+        "english_name": "Nzima",
+        "french_name": "nzema"
+    },
+    {
+        "alpha3_terminology": "oci",
+        "alpha3_bibliographic": "oci",
+        "alpha2": "oc",
+        "english_name": "Occitan (post 1500)",
+        "french_name": "occitan (après 1500)"
+    },
+    {
+        "alpha3_terminology": "oji",
+        "alpha3_bibliographic": "oji",
+        "alpha2": "oj",
+        "english_name": "Ojibwa",
+        "french_name": "ojibwa"
+    },
+    {
+        "alpha3_terminology": "ori",
+        "alpha3_bibliographic": "ori",
+        "alpha2": "or",
+        "english_name": "Oriya",
+        "french_name": "oriya"
+    },
+    {
+        "alpha3_terminology": "orm",
+        "alpha3_bibliographic": "orm",
+        "alpha2": "om",
+        "english_name": "Oromo",
+        "french_name": "galla"
+    },
+    {
+        "alpha3_terminology": "osa",
+        "alpha3_bibliographic": "osa",
+        "alpha2": null,
+        "english_name": "Osage",
+        "french_name": "osage"
+    },
+    {
+        "alpha3_terminology": "oss",
+        "alpha3_bibliographic": "oss",
+        "alpha2": "os",
+        "english_name": "Ossetian; Ossetic",
+        "french_name": "ossète"
+    },
+    {
+        "alpha3_terminology": "ota",
+        "alpha3_bibliographic": "ota",
+        "alpha2": null,
+        "english_name": "Turkish, Ottoman (1500-1928)",
+        "french_name": "turc ottoman (1500-1928)"
+    },
+    {
+        "alpha3_terminology": "oto",
+        "alpha3_bibliographic": "oto",
+        "alpha2": null,
+        "english_name": "Otomian languages",
+        "french_name": "otomi, langues"
+    },
+    {
+        "alpha3_terminology": "paa",
+        "alpha3_bibliographic": "paa",
+        "alpha2": null,
+        "english_name": "Papuan languages",
+        "french_name": "papoues, langues"
+    },
+    {
+        "alpha3_terminology": "pag",
+        "alpha3_bibliographic": "pag",
+        "alpha2": null,
+        "english_name": "Pangasinan",
+        "french_name": "pangasinan"
+    },
+    {
+        "alpha3_terminology": "pal",
+        "alpha3_bibliographic": "pal",
+        "alpha2": null,
+        "english_name": "Pahlavi",
+        "french_name": "pahlavi"
+    },
+    {
+        "alpha3_terminology": "pam",
+        "alpha3_bibliographic": "pam",
+        "alpha2": null,
+        "english_name": "Pampanga; Kapampangan",
+        "french_name": "pampangan"
+    },
+    {
+        "alpha3_terminology": "pan",
+        "alpha3_bibliographic": "pan",
+        "alpha2": "pa",
+        "english_name": "Panjabi; Punjabi",
+        "french_name": "pendjabi"
+    },
+    {
+        "alpha3_terminology": "pap",
+        "alpha3_bibliographic": "pap",
+        "alpha2": null,
+        "english_name": "Papiamento",
+        "french_name": "papiamento"
+    },
+    {
+        "alpha3_terminology": "pau",
+        "alpha3_bibliographic": "pau",
+        "alpha2": null,
+        "english_name": "Palauan",
+        "french_name": "palau"
+    },
+    {
+        "alpha3_terminology": "peo",
+        "alpha3_bibliographic": "peo",
+        "alpha2": null,
+        "english_name": "Persian, Old (ca.600-400 B.C.)",
+        "french_name": "perse, vieux (ca. 600-400 av. J.-C.)"
+    },
+    {
+        "alpha3_terminology": "fas",
+        "alpha3_bibliographic": "per",
+        "alpha2": "fa",
+        "english_name": "Persian",
+        "french_name": "persan"
+    },
+    {
+        "alpha3_terminology": "phi",
+        "alpha3_bibliographic": "phi",
+        "alpha2": null,
+        "english_name": "Philippine languages",
+        "french_name": "philippines, langues"
+    },
+    {
+        "alpha3_terminology": "phn",
+        "alpha3_bibliographic": "phn",
+        "alpha2": null,
+        "english_name": "Phoenician",
+        "french_name": "phénicien"
+    },
+    {
+        "alpha3_terminology": "pli",
+        "alpha3_bibliographic": "pli",
+        "alpha2": "pi",
+        "english_name": "Pali",
+        "french_name": "pali"
+    },
+    {
+        "alpha3_terminology": "pol",
+        "alpha3_bibliographic": "pol",
+        "alpha2": "pl",
+        "english_name": "Polish",
+        "french_name": "polonais"
+    },
+    {
+        "alpha3_terminology": "pon",
+        "alpha3_bibliographic": "pon",
+        "alpha2": null,
+        "english_name": "Pohnpeian",
+        "french_name": "pohnpei"
+    },
+    {
+        "alpha3_terminology": "por",
+        "alpha3_bibliographic": "por",
+        "alpha2": "pt",
+        "english_name": "Portuguese",
+        "french_name": "portugais"
+    },
+    {
+        "alpha3_terminology": "pra",
+        "alpha3_bibliographic": "pra",
+        "alpha2": null,
+        "english_name": "Prakrit languages",
+        "french_name": "prâkrit, langues"
+    },
+    {
+        "alpha3_terminology": "pro",
+        "alpha3_bibliographic": "pro",
+        "alpha2": null,
+        "english_name": "Provençal, Old (to 1500); Occitan, Old (to 1500)",
+        "french_name": "provençal ancien (jusqu'à 1500); occitan ancien (jusqu'à 1500)"
+    },
+    {
+        "alpha3_terminology": "pus",
+        "alpha3_bibliographic": "pus",
+        "alpha2": "ps",
+        "english_name": "Pushto; Pashto",
+        "french_name": "pachto"
+    },
+    {
+        "alpha3_terminology": "qaa-qtz",
+        "alpha3_bibliographic": "qaa-qtz",
+        "alpha2": null,
+        "english_name": "Reserved for local use",
+        "french_name": "réservée à l'usage local"
+    },
+    {
+        "alpha3_terminology": "que",
+        "alpha3_bibliographic": "que",
+        "alpha2": "qu",
+        "english_name": "Quechua",
+        "french_name": "quechua"
+    },
+    {
+        "alpha3_terminology": "raj",
+        "alpha3_bibliographic": "raj",
+        "alpha2": null,
+        "english_name": "Rajasthani",
+        "french_name": "rajasthani"
+    },
+    {
+        "alpha3_terminology": "rap",
+        "alpha3_bibliographic": "rap",
+        "alpha2": null,
+        "english_name": "Rapanui",
+        "french_name": "rapanui"
+    },
+    {
+        "alpha3_terminology": "rar",
+        "alpha3_bibliographic": "rar",
+        "alpha2": null,
+        "english_name": "Rarotongan; Cook Islands Maori",
+        "french_name": "rarotonga; maori des îles Cook"
+    },
+    {
+        "alpha3_terminology": "roa",
+        "alpha3_bibliographic": "roa",
+        "alpha2": null,
+        "english_name": "Romance languages",
+        "french_name": "romanes, langues"
+    },
+    {
+        "alpha3_terminology": "roh",
+        "alpha3_bibliographic": "roh",
+        "alpha2": "rm",
+        "english_name": "Romansh",
+        "french_name": "romanche"
+    },
+    {
+        "alpha3_terminology": "rom",
+        "alpha3_bibliographic": "rom",
+        "alpha2": null,
+        "english_name": "Romany",
+        "french_name": "tsigane"
+    },
+    {
+        "alpha3_terminology": "ron",
+        "alpha3_bibliographic": "rum",
+        "alpha2": "ro",
+        "english_name": "Romanian; Moldavian; Moldovan",
+        "french_name": "roumain; moldave"
+    },
+    {
+        "alpha3_terminology": "run",
+        "alpha3_bibliographic": "run",
+        "alpha2": "rn",
+        "english_name": "Rundi",
+        "french_name": "rundi"
+    },
+    {
+        "alpha3_terminology": "rup",
+        "alpha3_bibliographic": "rup",
+        "alpha2": null,
+        "english_name": "Aromanian; Arumanian; Macedo-Romanian",
+        "french_name": "aroumain; macédo-roumain"
+    },
+    {
+        "alpha3_terminology": "rus",
+        "alpha3_bibliographic": "rus",
+        "alpha2": "ru",
+        "english_name": "Russian",
+        "french_name": "russe"
+    },
+    {
+        "alpha3_terminology": "sad",
+        "alpha3_bibliographic": "sad",
+        "alpha2": null,
+        "english_name": "Sandawe",
+        "french_name": "sandawe"
+    },
+    {
+        "alpha3_terminology": "sag",
+        "alpha3_bibliographic": "sag",
+        "alpha2": "sg",
+        "english_name": "Sango",
+        "french_name": "sango"
+    },
+    {
+        "alpha3_terminology": "sah",
+        "alpha3_bibliographic": "sah",
+        "alpha2": null,
+        "english_name": "Yakut",
+        "french_name": "iakoute"
+    },
+    {
+        "alpha3_terminology": "sai",
+        "alpha3_bibliographic": "sai",
+        "alpha2": null,
+        "english_name": "South American Indian languages",
+        "french_name": "sud-amérindiennes, langues"
+    },
+    {
+        "alpha3_terminology": "sal",
+        "alpha3_bibliographic": "sal",
+        "alpha2": null,
+        "english_name": "Salishan languages",
+        "french_name": "salishennes, langues"
+    },
+    {
+        "alpha3_terminology": "sam",
+        "alpha3_bibliographic": "sam",
+        "alpha2": null,
+        "english_name": "Samaritan Aramaic",
+        "french_name": "samaritain"
+    },
+    {
+        "alpha3_terminology": "san",
+        "alpha3_bibliographic": "san",
+        "alpha2": "sa",
+        "english_name": "Sanskrit",
+        "french_name": "sanskrit"
+    },
+    {
+        "alpha3_terminology": "sas",
+        "alpha3_bibliographic": "sas",
+        "alpha2": null,
+        "english_name": "Sasak",
+        "french_name": "sasak"
+    },
+    {
+        "alpha3_terminology": "sat",
+        "alpha3_bibliographic": "sat",
+        "alpha2": null,
+        "english_name": "Santali",
+        "french_name": "santal"
+    },
+    {
+        "alpha3_terminology": "scn",
+        "alpha3_bibliographic": "scn",
+        "alpha2": null,
+        "english_name": "Sicilian",
+        "french_name": "sicilien"
+    },
+    {
+        "alpha3_terminology": "sco",
+        "alpha3_bibliographic": "sco",
+        "alpha2": null,
+        "english_name": "Scots",
+        "french_name": "écossais"
+    },
+    {
+        "alpha3_terminology": "sel",
+        "alpha3_bibliographic": "sel",
+        "alpha2": null,
+        "english_name": "Selkup",
+        "french_name": "selkoupe"
+    },
+    {
+        "alpha3_terminology": "sem",
+        "alpha3_bibliographic": "sem",
+        "alpha2": null,
+        "english_name": "Semitic languages",
+        "french_name": "sémitiques, langues"
+    },
+    {
+        "alpha3_terminology": "sga",
+        "alpha3_bibliographic": "sga",
+        "alpha2": null,
+        "english_name": "Irish, Old (to 900)",
+        "french_name": "irlandais ancien (jusqu'à 900)"
+    },
+    {
+        "alpha3_terminology": "sgn",
+        "alpha3_bibliographic": "sgn",
+        "alpha2": null,
+        "english_name": "Sign Languages",
+        "french_name": "langues des signes"
+    },
+    {
+        "alpha3_terminology": "shn",
+        "alpha3_bibliographic": "shn",
+        "alpha2": null,
+        "english_name": "Shan",
+        "french_name": "chan"
+    },
+    {
+        "alpha3_terminology": "sid",
+        "alpha3_bibliographic": "sid",
+        "alpha2": null,
+        "english_name": "Sidamo",
+        "french_name": "sidamo"
+    },
+    {
+        "alpha3_terminology": "sin",
+        "alpha3_bibliographic": "sin",
+        "alpha2": "si",
+        "english_name": "Sinhala; Sinhalese",
+        "french_name": "singhalais"
+    },
+    {
+        "alpha3_terminology": "sio",
+        "alpha3_bibliographic": "sio",
+        "alpha2": null,
+        "english_name": "Siouan languages",
+        "french_name": "sioux, langues"
+    },
+    {
+        "alpha3_terminology": "sit",
+        "alpha3_bibliographic": "sit",
+        "alpha2": null,
+        "english_name": "Sino-Tibetan languages",
+        "french_name": "sino-tibétaines, langues"
+    },
+    {
+        "alpha3_terminology": "sla",
+        "alpha3_bibliographic": "sla",
+        "alpha2": null,
+        "english_name": "Slavic languages",
+        "french_name": "slaves, langues"
+    },
+    {
+        "alpha3_terminology": "slk",
+        "alpha3_bibliographic": "slo",
+        "alpha2": "sk",
+        "english_name": "Slovak",
+        "french_name": "slovaque"
+    },
+    {
+        "alpha3_terminology": "slv",
+        "alpha3_bibliographic": "slv",
+        "alpha2": "sl",
+        "english_name": "Slovenian",
+        "french_name": "slovène"
+    },
+    {
+        "alpha3_terminology": "sma",
+        "alpha3_bibliographic": "sma",
+        "alpha2": null,
+        "english_name": "Southern Sami",
+        "french_name": "sami du Sud"
+    },
+    {
+        "alpha3_terminology": "sme",
+        "alpha3_bibliographic": "sme",
+        "alpha2": "se",
+        "english_name": "Northern Sami",
+        "french_name": "sami du Nord"
+    },
+    {
+        "alpha3_terminology": "smi",
+        "alpha3_bibliographic": "smi",
+        "alpha2": null,
+        "english_name": "Sami languages",
+        "french_name": "sames, langues"
+    },
+    {
+        "alpha3_terminology": "smj",
+        "alpha3_bibliographic": "smj",
+        "alpha2": null,
+        "english_name": "Lule Sami",
+        "french_name": "sami de Lule"
+    },
+    {
+        "alpha3_terminology": "smn",
+        "alpha3_bibliographic": "smn",
+        "alpha2": null,
+        "english_name": "Inari Sami",
+        "french_name": "sami d'Inari"
+    },
+    {
+        "alpha3_terminology": "smo",
+        "alpha3_bibliographic": "smo",
+        "alpha2": "sm",
+        "english_name": "Samoan",
+        "french_name": "samoan"
+    },
+    {
+        "alpha3_terminology": "sms",
+        "alpha3_bibliographic": "sms",
+        "alpha2": null,
+        "english_name": "Skolt Sami",
+        "french_name": "sami skolt"
+    },
+    {
+        "alpha3_terminology": "sna",
+        "alpha3_bibliographic": "sna",
+        "alpha2": "sn",
+        "english_name": "Shona",
+        "french_name": "shona"
+    },
+    {
+        "alpha3_terminology": "snd",
+        "alpha3_bibliographic": "snd",
+        "alpha2": "sd",
+        "english_name": "Sindhi",
+        "french_name": "sindhi"
+    },
+    {
+        "alpha3_terminology": "snk",
+        "alpha3_bibliographic": "snk",
+        "alpha2": null,
+        "english_name": "Soninke",
+        "french_name": "soninké"
+    },
+    {
+        "alpha3_terminology": "sog",
+        "alpha3_bibliographic": "sog",
+        "alpha2": null,
+        "english_name": "Sogdian",
+        "french_name": "sogdien"
+    },
+    {
+        "alpha3_terminology": "som",
+        "alpha3_bibliographic": "som",
+        "alpha2": "so",
+        "english_name": "Somali",
+        "french_name": "somali"
+    },
+    {
+        "alpha3_terminology": "son",
+        "alpha3_bibliographic": "son",
+        "alpha2": null,
+        "english_name": "Songhai languages",
+        "french_name": "songhai, langues"
+    },
+    {
+        "alpha3_terminology": "sot",
+        "alpha3_bibliographic": "sot",
+        "alpha2": "st",
+        "english_name": "Sotho, Southern",
+        "french_name": "sotho du Sud"
+    },
+    {
+        "alpha3_terminology": "spa",
+        "alpha3_bibliographic": "spa",
+        "alpha2": "es",
+        "english_name": "Spanish; Castilian",
+        "french_name": "espagnol; castillan"
+    },
+    {
+        "alpha3_terminology": "srd",
+        "alpha3_bibliographic": "srd",
+        "alpha2": "sc",
+        "english_name": "Sardinian",
+        "french_name": "sarde"
+    },
+    {
+        "alpha3_terminology": "srn",
+        "alpha3_bibliographic": "srn",
+        "alpha2": null,
+        "english_name": "Sranan Tongo",
+        "french_name": "sranan tongo"
+    },
+    {
+        "alpha3_terminology": "srp",
+        "alpha3_bibliographic": "srp",
+        "alpha2": "sr",
+        "english_name": "Serbian",
+        "french_name": "serbe"
+    },
+    {
+        "alpha3_terminology": "srr",
+        "alpha3_bibliographic": "srr",
+        "alpha2": null,
+        "english_name": "Serer",
+        "french_name": "sérère"
+    },
+    {
+        "alpha3_terminology": "ssa",
+        "alpha3_bibliographic": "ssa",
+        "alpha2": null,
+        "english_name": "Nilo-Saharan languages",
+        "french_name": "nilo-sahariennes, langues"
+    },
+    {
+        "alpha3_terminology": "ssw",
+        "alpha3_bibliographic": "ssw",
+        "alpha2": "ss",
+        "english_name": "Swati",
+        "french_name": "swati"
+    },
+    {
+        "alpha3_terminology": "suk",
+        "alpha3_bibliographic": "suk",
+        "alpha2": null,
+        "english_name": "Sukuma",
+        "french_name": "sukuma"
+    },
+    {
+        "alpha3_terminology": "sun",
+        "alpha3_bibliographic": "sun",
+        "alpha2": "su",
+        "english_name": "Sundanese",
+        "french_name": "soundanais"
+    },
+    {
+        "alpha3_terminology": "sus",
+        "alpha3_bibliographic": "sus",
+        "alpha2": null,
+        "english_name": "Susu",
+        "french_name": "soussou"
+    },
+    {
+        "alpha3_terminology": "sux",
+        "alpha3_bibliographic": "sux",
+        "alpha2": null,
+        "english_name": "Sumerian",
+        "french_name": "sumérien"
+    },
+    {
+        "alpha3_terminology": "swa",
+        "alpha3_bibliographic": "swa",
+        "alpha2": "sw",
+        "english_name": "Swahili",
+        "french_name": "swahili"
+    },
+    {
+        "alpha3_terminology": "swe",
+        "alpha3_bibliographic": "swe",
+        "alpha2": "sv",
+        "english_name": "Swedish",
+        "french_name": "suédois"
+    },
+    {
+        "alpha3_terminology": "syc",
+        "alpha3_bibliographic": "syc",
+        "alpha2": null,
+        "english_name": "Classical Syriac",
+        "french_name": "syriaque classique"
+    },
+    {
+        "alpha3_terminology": "syr",
+        "alpha3_bibliographic": "syr",
+        "alpha2": null,
+        "english_name": "Syriac",
+        "french_name": "syriaque"
+    },
+    {
+        "alpha3_terminology": "tah",
+        "alpha3_bibliographic": "tah",
+        "alpha2": "ty",
+        "english_name": "Tahitian",
+        "french_name": "tahitien"
+    },
+    {
+        "alpha3_terminology": "tai",
+        "alpha3_bibliographic": "tai",
+        "alpha2": null,
+        "english_name": "Tai languages",
+        "french_name": "tai, langues"
+    },
+    {
+        "alpha3_terminology": "tam",
+        "alpha3_bibliographic": "tam",
+        "alpha2": "ta",
+        "english_name": "Tamil",
+        "french_name": "tamoul"
+    },
+    {
+        "alpha3_terminology": "tat",
+        "alpha3_bibliographic": "tat",
+        "alpha2": "tt",
+        "english_name": "Tatar",
+        "french_name": "tatar"
+    },
+    {
+        "alpha3_terminology": "tel",
+        "alpha3_bibliographic": "tel",
+        "alpha2": "te",
+        "english_name": "Telugu",
+        "french_name": "télougou"
+    },
+    {
+        "alpha3_terminology": "tem",
+        "alpha3_bibliographic": "tem",
+        "alpha2": null,
+        "english_name": "Timne",
+        "french_name": "temne"
+    },
+    {
+        "alpha3_terminology": "ter",
+        "alpha3_bibliographic": "ter",
+        "alpha2": null,
+        "english_name": "Tereno",
+        "french_name": "tereno"
+    },
+    {
+        "alpha3_terminology": "tet",
+        "alpha3_bibliographic": "tet",
+        "alpha2": null,
+        "english_name": "Tetum",
+        "french_name": "tetum"
+    },
+    {
+        "alpha3_terminology": "tgk",
+        "alpha3_bibliographic": "tgk",
+        "alpha2": "tg",
+        "english_name": "Tajik",
+        "french_name": "tadjik"
+    },
+    {
+        "alpha3_terminology": "tgl",
+        "alpha3_bibliographic": "tgl",
+        "alpha2": "tl",
+        "english_name": "Tagalog",
+        "french_name": "tagalog"
+    },
+    {
+        "alpha3_terminology": "tha",
+        "alpha3_bibliographic": "tha",
+        "alpha2": "th",
+        "english_name": "Thai",
+        "french_name": "thaï"
+    },
+    {
+        "alpha3_terminology": "bod",
+        "alpha3_bibliographic": "tib",
+        "alpha2": "bo",
+        "english_name": "Tibetan",
+        "french_name": "tibétain"
+    },
+    {
+        "alpha3_terminology": "tig",
+        "alpha3_bibliographic": "tig",
+        "alpha2": null,
+        "english_name": "Tigre",
+        "french_name": "tigré"
+    },
+    {
+        "alpha3_terminology": "tir",
+        "alpha3_bibliographic": "tir",
+        "alpha2": "ti",
+        "english_name": "Tigrinya",
+        "french_name": "tigrigna"
+    },
+    {
+        "alpha3_terminology": "tiv",
+        "alpha3_bibliographic": "tiv",
+        "alpha2": null,
+        "english_name": "Tiv",
+        "french_name": "tiv"
+    },
+    {
+        "alpha3_terminology": "tkl",
+        "alpha3_bibliographic": "tkl",
+        "alpha2": null,
+        "english_name": "Tokelau",
+        "french_name": "tokelau"
+    },
+    {
+        "alpha3_terminology": "tlh",
+        "alpha3_bibliographic": "tlh",
+        "alpha2": null,
+        "english_name": "Klingon; tlhIngan-Hol",
+        "french_name": "klingon"
+    },
+    {
+        "alpha3_terminology": "tli",
+        "alpha3_bibliographic": "tli",
+        "alpha2": null,
+        "english_name": "Tlingit",
+        "french_name": "tlingit"
+    },
+    {
+        "alpha3_terminology": "tmh",
+        "alpha3_bibliographic": "tmh",
+        "alpha2": null,
+        "english_name": "Tamashek",
+        "french_name": "tamacheq"
+    },
+    {
+        "alpha3_terminology": "tog",
+        "alpha3_bibliographic": "tog",
+        "alpha2": null,
+        "english_name": "Tonga (Nyasa)",
+        "french_name": "tonga (Nyasa)"
+    },
+    {
+        "alpha3_terminology": "ton",
+        "alpha3_bibliographic": "ton",
+        "alpha2": "to",
+        "english_name": "Tonga (Tonga Islands)",
+        "french_name": "tongan (Îles Tonga)"
+    },
+    {
+        "alpha3_terminology": "tpi",
+        "alpha3_bibliographic": "tpi",
+        "alpha2": null,
+        "english_name": "Tok Pisin",
+        "french_name": "tok pisin"
+    },
+    {
+        "alpha3_terminology": "tsi",
+        "alpha3_bibliographic": "tsi",
+        "alpha2": null,
+        "english_name": "Tsimshian",
+        "french_name": "tsimshian"
+    },
+    {
+        "alpha3_terminology": "tsn",
+        "alpha3_bibliographic": "tsn",
+        "alpha2": "tn",
+        "english_name": "Tswana",
+        "french_name": "tswana"
+    },
+    {
+        "alpha3_terminology": "tso",
+        "alpha3_bibliographic": "tso",
+        "alpha2": "ts",
+        "english_name": "Tsonga",
+        "french_name": "tsonga"
+    },
+    {
+        "alpha3_terminology": "tuk",
+        "alpha3_bibliographic": "tuk",
+        "alpha2": "tk",
+        "english_name": "Turkmen",
+        "french_name": "turkmène"
+    },
+    {
+        "alpha3_terminology": "tum",
+        "alpha3_bibliographic": "tum",
+        "alpha2": null,
+        "english_name": "Tumbuka",
+        "french_name": "tumbuka"
+    },
+    {
+        "alpha3_terminology": "tup",
+        "alpha3_bibliographic": "tup",
+        "alpha2": null,
+        "english_name": "Tupi languages",
+        "french_name": "tupi, langues"
+    },
+    {
+        "alpha3_terminology": "tur",
+        "alpha3_bibliographic": "tur",
+        "alpha2": "tr",
+        "english_name": "Turkish",
+        "french_name": "turc"
+    },
+    {
+        "alpha3_terminology": "tut",
+        "alpha3_bibliographic": "tut",
+        "alpha2": null,
+        "english_name": "Altaic languages",
+        "french_name": "altaïques, langues"
+    },
+    {
+        "alpha3_terminology": "tvl",
+        "alpha3_bibliographic": "tvl",
+        "alpha2": null,
+        "english_name": "Tuvalu",
+        "french_name": "tuvalu"
+    },
+    {
+        "alpha3_terminology": "twi",
+        "alpha3_bibliographic": "twi",
+        "alpha2": "tw",
+        "english_name": "Twi",
+        "french_name": "twi"
+    },
+    {
+        "alpha3_terminology": "tyv",
+        "alpha3_bibliographic": "tyv",
+        "alpha2": null,
+        "english_name": "Tuvinian",
+        "french_name": "touva"
+    },
+    {
+        "alpha3_terminology": "udm",
+        "alpha3_bibliographic": "udm",
+        "alpha2": null,
+        "english_name": "Udmurt",
+        "french_name": "oudmourte"
+    },
+    {
+        "alpha3_terminology": "uga",
+        "alpha3_bibliographic": "uga",
+        "alpha2": null,
+        "english_name": "Ugaritic",
+        "french_name": "ougaritique"
+    },
+    {
+        "alpha3_terminology": "uig",
+        "alpha3_bibliographic": "uig",
+        "alpha2": "ug",
+        "english_name": "Uighur; Uyghur",
+        "french_name": "ouïgour"
+    },
+    {
+        "alpha3_terminology": "ukr",
+        "alpha3_bibliographic": "ukr",
+        "alpha2": "uk",
+        "english_name": "Ukrainian",
+        "french_name": "ukrainien"
+    },
+    {
+        "alpha3_terminology": "umb",
+        "alpha3_bibliographic": "umb",
+        "alpha2": null,
+        "english_name": "Umbundu",
+        "french_name": "umbundu"
+    },
+    {
+        "alpha3_terminology": "und",
+        "alpha3_bibliographic": "und",
+        "alpha2": null,
+        "english_name": "Undetermined",
+        "french_name": "indéterminée"
+    },
+    {
+        "alpha3_terminology": "urd",
+        "alpha3_bibliographic": "urd",
+        "alpha2": "ur",
+        "english_name": "Urdu",
+        "french_name": "ourdou"
+    },
+    {
+        "alpha3_terminology": "uzb",
+        "alpha3_bibliographic": "uzb",
+        "alpha2": "uz",
+        "english_name": "Uzbek",
+        "french_name": "ouszbek"
+    },
+    {
+        "alpha3_terminology": "vai",
+        "alpha3_bibliographic": "vai",
+        "alpha2": null,
+        "english_name": "Vai",
+        "french_name": "vaï"
+    },
+    {
+        "alpha3_terminology": "ven",
+        "alpha3_bibliographic": "ven",
+        "alpha2": "ve",
+        "english_name": "Venda",
+        "french_name": "venda"
+    },
+    {
+        "alpha3_terminology": "vie",
+        "alpha3_bibliographic": "vie",
+        "alpha2": "vi",
+        "english_name": "Vietnamese",
+        "french_name": "vietnamien"
+    },
+    {
+        "alpha3_terminology": "vol",
+        "alpha3_bibliographic": "vol",
+        "alpha2": "vo",
+        "english_name": "Volapük",
+        "french_name": "volapük"
+    },
+    {
+        "alpha3_terminology": "vot",
+        "alpha3_bibliographic": "vot",
+        "alpha2": null,
+        "english_name": "Votic",
+        "french_name": "vote"
+    },
+    {
+        "alpha3_terminology": "wak",
+        "alpha3_bibliographic": "wak",
+        "alpha2": null,
+        "english_name": "Wakashan languages",
+        "french_name": "wakashanes, langues"
+    },
+    {
+        "alpha3_terminology": "wal",
+        "alpha3_bibliographic": "wal",
+        "alpha2": null,
+        "english_name": "Wolaitta; Wolaytta",
+        "french_name": "wolaitta; wolaytta"
+    },
+    {
+        "alpha3_terminology": "war",
+        "alpha3_bibliographic": "war",
+        "alpha2": null,
+        "english_name": "Waray",
+        "french_name": "waray"
+    },
+    {
+        "alpha3_terminology": "was",
+        "alpha3_bibliographic": "was",
+        "alpha2": null,
+        "english_name": "Washo",
+        "french_name": "washo"
+    },
+    {
+        "alpha3_terminology": "cym",
+        "alpha3_bibliographic": "wel",
+        "alpha2": "cy",
+        "english_name": "Welsh",
+        "french_name": "gallois"
+    },
+    {
+        "alpha3_terminology": "wen",
+        "alpha3_bibliographic": "wen",
+        "alpha2": null,
+        "english_name": "Sorbian languages",
+        "french_name": "sorabes, langues"
+    },
+    {
+        "alpha3_terminology": "wln",
+        "alpha3_bibliographic": "wln",
+        "alpha2": "wa",
+        "english_name": "Walloon",
+        "french_name": "wallon"
+    },
+    {
+        "alpha3_terminology": "wol",
+        "alpha3_bibliographic": "wol",
+        "alpha2": "wo",
+        "english_name": "Wolof",
+        "french_name": "wolof"
+    },
+    {
+        "alpha3_terminology": "xal",
+        "alpha3_bibliographic": "xal",
+        "alpha2": null,
+        "english_name": "Kalmyk; Oirat",
+        "french_name": "kalmouk; oïrat"
+    },
+    {
+        "alpha3_terminology": "xho",
+        "alpha3_bibliographic": "xho",
+        "alpha2": "xh",
+        "english_name": "Xhosa",
+        "french_name": "xhosa"
+    },
+    {
+        "alpha3_terminology": "yao",
+        "alpha3_bibliographic": "yao",
+        "alpha2": null,
+        "english_name": "Yao",
+        "french_name": "yao"
+    },
+    {
+        "alpha3_terminology": "yap",
+        "alpha3_bibliographic": "yap",
+        "alpha2": null,
+        "english_name": "Yapese",
+        "french_name": "yapois"
+    },
+    {
+        "alpha3_terminology": "yid",
+        "alpha3_bibliographic": "yid",
+        "alpha2": "yi",
+        "english_name": "Yiddish",
+        "french_name": "yiddish"
+    },
+    {
+        "alpha3_terminology": "yor",
+        "alpha3_bibliographic": "yor",
+        "alpha2": "yo",
+        "english_name": "Yoruba",
+        "french_name": "yoruba"
+    },
+    {
+        "alpha3_terminology": "ypk",
+        "alpha3_bibliographic": "ypk",
+        "alpha2": null,
+        "english_name": "Yupik languages",
+        "french_name": "yupik, langues"
+    },
+    {
+        "alpha3_terminology": "zap",
+        "alpha3_bibliographic": "zap",
+        "alpha2": null,
+        "english_name": "Zapotec",
+        "french_name": "zapotèque"
+    },
+    {
+        "alpha3_terminology": "zbl",
+        "alpha3_bibliographic": "zbl",
+        "alpha2": null,
+        "english_name": "Blissymbols; Blissymbolics; Bliss",
+        "french_name": "symboles Bliss; Bliss"
+    },
+    {
+        "alpha3_terminology": "zen",
+        "alpha3_bibliographic": "zen",
+        "alpha2": null,
+        "english_name": "Zenaga",
+        "french_name": "zenaga"
+    },
+    {
+        "alpha3_terminology": "zgh",
+        "alpha3_bibliographic": "zgh",
+        "alpha2": null,
+        "english_name": "Standard Moroccan Tamazight",
+        "french_name": "amazighe standard marocain"
+    },
+    {
+        "alpha3_terminology": "zha",
+        "alpha3_bibliographic": "zha",
+        "alpha2": "za",
+        "english_name": "Zhuang; Chuang",
+        "french_name": "zhuang; chuang"
+    },
+    {
+        "alpha3_terminology": "znd",
+        "alpha3_bibliographic": "znd",
+        "alpha2": null,
+        "english_name": "Zande languages",
+        "french_name": "zandé, langues"
+    },
+    {
+        "alpha3_terminology": "zul",
+        "alpha3_bibliographic": "zul",
+        "alpha2": "zu",
+        "english_name": "Zulu",
+        "french_name": "zoulou"
+    },
+    {
+        "alpha3_terminology": "zun",
+        "alpha3_bibliographic": "zun",
+        "alpha2": null,
+        "english_name": "Zuni",
+        "french_name": "zuni"
+    },
+    {
+        "alpha3_terminology": "zxx",
+        "alpha3_bibliographic": "zxx",
+        "alpha2": null,
+        "english_name": null,
+        "french_name": null
+    },
+    {
+        "alpha3_terminology": "zza",
+        "alpha3_bibliographic": "zza",
+        "alpha2": null,
+        "english_name": "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki",
+        "french_name": "zaza; dimili; dimli; kirdki; kirmanjki; zazaki"
+    }
+]

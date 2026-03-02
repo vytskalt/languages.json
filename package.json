@@ -1,0 +1,11 @@
+{
+  "name": "iso639-2",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^25.3.3"
+  }
+}
